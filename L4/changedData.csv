@@ -1,0 +1,888 @@
+,Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Fare,Test,Test2,NameLowercase
+0,0,3,Mr. Owen Harris Braund,Pulkit Chawla,22.0,1,0,7.25,9.25,21.75,mr. owen harris braund
+1,1,1,Mrs. John Bradley (Florence Briggs Thayer) Cumings,Pulkit Chawla,38.0,1,0,71.2833,73.2833,71.2833,mrs. john bradley (florence briggs thayer) cumings
+2,1,3,Miss. Laina Heikkinen,Pulkit Chawla,26.0,0,0,7.925,9.925,23.775,miss. laina heikkinen
+3,1,1,Mrs. Jacques Heath (Lily May Peel) Futrelle,female,35.0,1,0,53.1,55.1,53.1,mrs. jacques heath (lily may peel) futrelle
+4,0,3,Mr. William Henry Allen,male,35.0,0,0,8.05,10.05,24.150000000000002,mr. william henry allen
+5,0,3,Mr. James Moran,male,27.0,0,0,8.4583,10.4583,25.374899999999997,mr. james moran
+6,0,1,Mr. Timothy J McCarthy,male,54.0,0,0,51.8625,53.8625,51.8625,mr. timothy j mccarthy
+7,0,3,Master. Gosta Leonard Palsson,male,2.0,3,1,21.075,23.075,63.224999999999994,master. gosta leonard palsson
+8,1,3,Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson,female,27.0,0,2,11.1333,13.1333,33.3999,mrs. oscar w (elisabeth vilhelmina berg) johnson
+9,1,2,Mrs. Nicholas (Adele Achem) Nasser,female,14.0,1,0,30.0708,32.0708,60.1416,mrs. nicholas (adele achem) nasser
+10,1,3,Miss. Marguerite Rut Sandstrom,female,4.0,1,1,16.7,18.7,50.099999999999994,miss. marguerite rut sandstrom
+11,1,1,Miss. Elizabeth Bonnell,female,58.0,0,0,26.55,28.55,26.55,miss. elizabeth bonnell
+12,0,3,Mr. William Henry Saundercock,male,20.0,0,0,8.05,10.05,24.150000000000002,mr. william henry saundercock
+13,0,3,Mr. Anders Johan Andersson,male,39.0,1,5,31.275,33.275,93.82499999999999,mr. anders johan andersson
+14,0,3,Miss. Hulda Amanda Adolfina Vestrom,female,14.0,0,0,7.8542,9.854199999999999,23.5626,miss. hulda amanda adolfina vestrom
+15,1,2,Mrs. (Mary D Kingcome) Hewlett,female,55.0,0,0,16.0,18.0,32.0,mrs. (mary d kingcome) hewlett
+16,0,3,Master. Eugene Rice,male,2.0,4,1,29.125,31.125,87.375,master. eugene rice
+17,1,2,Mr. Charles Eugene Williams,male,23.0,0,0,13.0,15.0,26.0,mr. charles eugene williams
+18,0,3,Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke,female,31.0,1,0,18.0,20.0,54.0,mrs. julius (emelia maria vandemoortele) vander planke
+19,1,3,Mrs. Fatima Masselmani,female,22.0,0,0,7.225,9.225,21.674999999999997,mrs. fatima masselmani
+20,0,2,Mr. Joseph J Fynney,male,35.0,0,0,26.0,28.0,52.0,mr. joseph j fynney
+21,1,2,Mr. Lawrence Beesley,male,34.0,0,0,13.0,15.0,26.0,mr. lawrence beesley
+22,1,3,Miss. Anna McGowan,female,15.0,0,0,8.0292,10.0292,24.0876,miss. anna mcgowan
+23,1,1,Mr. William Thompson Sloper,male,28.0,0,0,35.5,37.5,35.5,mr. william thompson sloper
+24,0,3,Miss. Torborg Danira Palsson,female,8.0,3,1,21.075,23.075,63.224999999999994,miss. torborg danira palsson
+25,1,3,Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,female,38.0,1,5,31.3875,33.3875,94.1625,mrs. carl oscar (selma augusta emilia johansson) asplund
+26,0,3,Mr. Farred Chehab Emir,male,26.0,0,0,7.225,9.225,21.674999999999997,mr. farred chehab emir
+27,0,1,Mr. Charles Alexander Fortune,male,19.0,3,2,263.0,265.0,263.0,mr. charles alexander fortune
+28,1,3,Miss. Ellen O'Dwyer,female,24.0,0,0,7.8792,9.8792,23.6376,miss. ellen o'dwyer
+29,0,3,Mr. Lalio Todoroff,male,23.0,0,0,7.8958,9.895800000000001,23.6874,mr. lalio todoroff
+30,0,1,Don. Manuel E Uruchurtu,male,40.0,0,0,27.7208,29.7208,27.7208,don. manuel e uruchurtu
+31,1,1,Mrs. William Augustus (Marie Eugenie) Spencer,female,48.0,1,0,146.5208,148.5208,146.5208,mrs. william augustus (marie eugenie) spencer
+32,1,3,Miss. Mary Agatha Glynn,female,18.0,0,0,7.75,9.75,23.25,miss. mary agatha glynn
+33,0,2,Mr. Edward H Wheadon,male,66.0,0,0,10.5,12.5,21.0,mr. edward h wheadon
+34,0,1,Mr. Edgar Joseph Meyer,male,28.0,1,0,82.1708,84.1708,82.1708,mr. edgar joseph meyer
+35,0,1,Mr. Alexander Oskar Holverson,male,42.0,1,0,52.0,54.0,52.0,mr. alexander oskar holverson
+36,1,3,Mr. Hanna Mamee,male,18.0,0,0,7.2292,9.229199999999999,21.6876,mr. hanna mamee
+37,0,3,Mr. Ernest Charles Cann,male,21.0,0,0,8.05,10.05,24.150000000000002,mr. ernest charles cann
+38,0,3,Miss. Augusta Maria Vander Planke,female,18.0,2,0,18.0,20.0,54.0,miss. augusta maria vander planke
+39,1,3,Miss. Jamila Nicola-Yarred,female,14.0,1,0,11.2417,13.2417,33.7251,miss. jamila nicola-yarred
+40,0,3,Mrs. Johan (Johanna Persdotter Larsson) Ahlin,female,40.0,1,0,9.475,11.475,28.424999999999997,mrs. johan (johanna persdotter larsson) ahlin
+41,0,2,Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin,female,27.0,1,0,21.0,23.0,42.0,mrs. william john robert (dorothy ann wonnacott) turpin
+42,1,2,Miss. Simonne Marie Anne Andree Laroche,female,3.0,1,2,41.5792,43.5792,83.1584,miss. simonne marie anne andree laroche
+43,1,3,Miss. Margaret Delia Devaney,female,19.0,0,0,7.8792,9.8792,23.6376,miss. margaret delia devaney
+44,0,3,Mr. William John Rogers,male,30.0,0,0,8.05,10.05,24.150000000000002,mr. william john rogers
+45,0,3,Mr. Denis Lennon,male,20.0,1,0,15.5,17.5,46.5,mr. denis lennon
+46,1,3,Miss. Bridget O'Driscoll,female,27.0,0,0,7.75,9.75,23.25,miss. bridget o'driscoll
+47,0,3,Mr. Youssef Samaan,male,16.0,2,0,21.6792,23.6792,65.0376,mr. youssef samaan
+48,0,3,Mrs. Josef (Josefine Franchi) Arnold-Franchi,female,18.0,1,0,17.8,19.8,53.400000000000006,mrs. josef (josefine franchi) arnold-franchi
+49,0,3,Master. Juha Niilo Panula,male,7.0,4,1,39.6875,41.6875,119.0625,master. juha niilo panula
+50,0,3,Mr. Richard Cater Nosworthy,male,21.0,0,0,7.8,9.8,23.4,mr. richard cater nosworthy
+51,1,1,Mrs. Henry Sleeper (Myna Haxtun) Harper,female,49.0,1,0,76.7292,78.7292,76.7292,mrs. henry sleeper (myna haxtun) harper
+52,1,2,Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,female,29.0,1,0,26.0,28.0,52.0,mrs. lizzie (elizabeth anne wilkinson) faunthorpe
+53,0,1,Mr. Engelhart Cornelius Ostby,male,65.0,0,1,61.9792,63.9792,61.9792,mr. engelhart cornelius ostby
+54,1,1,Mr. Hugh Woolner,male,46.0,0,0,35.5,37.5,35.5,mr. hugh woolner
+55,1,2,Miss. Emily Rugg,female,21.0,0,0,10.5,12.5,21.0,miss. emily rugg
+56,0,3,Mr. Mansouer Novel,male,28.5,0,0,7.2292,9.229199999999999,21.6876,mr. mansouer novel
+57,1,2,Miss. Constance Mirium West,female,5.0,1,2,27.75,29.75,55.5,miss. constance mirium west
+58,0,3,Master. William Frederick Goodwin,male,11.0,5,2,46.9,48.9,140.7,master. william frederick goodwin
+59,0,3,Mr. Orsen Sirayanian,male,22.0,0,0,7.2292,9.229199999999999,21.6876,mr. orsen sirayanian
+60,1,1,Miss. Amelie Icard,female,38.0,0,0,80.0,82.0,80.0,miss. amelie icard
+61,0,1,Mr. Henry Birkhardt Harris,male,45.0,1,0,83.475,85.475,83.475,mr. henry birkhardt harris
+62,0,3,Master. Harald Skoog,male,4.0,3,2,27.9,29.9,83.69999999999999,master. harald skoog
+63,0,1,Mr. Albert A Stewart,male,64.0,0,0,27.7208,29.7208,27.7208,mr. albert a stewart
+64,1,3,Master. Gerios Moubarek,male,7.0,1,1,15.2458,17.2458,45.737399999999994,master. gerios moubarek
+65,1,2,Mrs. (Elizabeth Ramell) Nye,female,29.0,0,0,10.5,12.5,21.0,mrs. (elizabeth ramell) nye
+66,0,3,Mr. Ernest James Crease,male,19.0,0,0,8.1583,10.1583,24.4749,mr. ernest james crease
+67,1,3,Miss. Erna Alexandra Andersson,female,17.0,4,2,7.925,9.925,23.775,miss. erna alexandra andersson
+68,0,3,Mr. Vincenz Kink,male,26.0,2,0,8.6625,10.6625,25.987499999999997,mr. vincenz kink
+69,0,2,Mr. Stephen Curnow Jenkin,male,32.0,0,0,10.5,12.5,21.0,mr. stephen curnow jenkin
+70,0,3,Miss. Lillian Amy Goodwin,female,16.0,5,2,46.9,48.9,140.7,miss. lillian amy goodwin
+71,0,2,Mr. Ambrose Jr Hood,male,21.0,0,0,73.5,75.5,147.0,mr. ambrose jr hood
+72,0,3,Mr. Apostolos Chronopoulos,male,26.0,1,0,14.4542,16.4542,43.3626,mr. apostolos chronopoulos
+73,1,3,Mr. Lee Bing,male,32.0,0,0,56.4958,58.4958,169.4874,mr. lee bing
+74,0,3,Mr. Sigurd Hansen Moen,male,25.0,0,0,7.65,9.65,22.950000000000003,mr. sigurd hansen moen
+75,0,3,Mr. Ivan Staneff,male,23.0,0,0,7.8958,9.895800000000001,23.6874,mr. ivan staneff
+76,0,3,Mr. Rahamin Haim Moutal,male,28.0,0,0,8.05,10.05,24.150000000000002,mr. rahamin haim moutal
+77,1,2,Master. Alden Gates Caldwell,male,0.83,0,2,29.0,31.0,58.0,master. alden gates caldwell
+78,1,3,Miss. Elizabeth Dowdell,female,30.0,0,0,12.475,14.475,37.425,miss. elizabeth dowdell
+79,0,3,Mr. Achille Waelens,male,22.0,0,0,9.0,11.0,27.0,mr. achille waelens
+80,1,3,Mr. Jan Baptist Sheerlinck,male,29.0,0,0,9.5,11.5,28.5,mr. jan baptist sheerlinck
+81,1,3,Miss. Brigdet Delia McDermott,female,31.0,0,0,7.7875,9.7875,23.362499999999997,miss. brigdet delia mcdermott
+82,0,1,Mr. Francisco M Carrau,male,28.0,0,0,47.1,49.1,47.1,mr. francisco m carrau
+83,1,2,Miss. Bertha Ilett,female,17.0,0,0,10.5,12.5,21.0,miss. bertha ilett
+84,1,3,Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom,female,33.0,3,0,15.85,17.85,47.55,mrs. karl alfred (maria mathilda gustafsson) backstrom
+85,0,3,Mr. William Neal Ford,male,16.0,1,3,34.375,36.375,103.125,mr. william neal ford
+86,0,3,Mr. Selman Francis Slocovski,male,20.0,0,0,8.05,10.05,24.150000000000002,mr. selman francis slocovski
+87,1,1,Miss. Mabel Helen Fortune,female,23.0,3,2,263.0,265.0,263.0,miss. mabel helen fortune
+88,0,3,Mr. Francesco Celotti,male,24.0,0,0,8.05,10.05,24.150000000000002,mr. francesco celotti
+89,0,3,Mr. Emil Christmann,male,29.0,0,0,8.05,10.05,24.150000000000002,mr. emil christmann
+90,0,3,Mr. Paul Edvin Andreasson,male,20.0,0,0,7.8542,9.854199999999999,23.5626,mr. paul edvin andreasson
+91,0,1,Mr. Herbert Fuller Chaffee,male,46.0,1,0,61.175,63.175,61.175,mr. herbert fuller chaffee
+92,0,3,Mr. Bertram Frank Dean,male,26.0,1,2,20.575,22.575,61.724999999999994,mr. bertram frank dean
+93,0,3,Mr. Daniel Coxon,male,59.0,0,0,7.25,9.25,21.75,mr. daniel coxon
+94,0,3,Mr. Charles Joseph Shorney,male,22.0,0,0,8.05,10.05,24.150000000000002,mr. charles joseph shorney
+95,0,1,Mr. George B Goldschmidt,male,71.0,0,0,34.6542,36.6542,34.6542,mr. george b goldschmidt
+96,1,1,Mr. William Bertram Greenfield,male,23.0,0,1,63.3583,65.3583,63.3583,mr. william bertram greenfield
+97,1,2,Mrs. John T (Ada Julia Bone) Doling,female,34.0,0,1,23.0,25.0,46.0,mrs. john t (ada julia bone) doling
+98,0,2,Mr. Sinai Kantor,male,34.0,1,0,26.0,28.0,52.0,mr. sinai kantor
+99,0,3,Miss. Matilda Petranec,female,28.0,0,0,7.8958,9.895800000000001,23.6874,miss. matilda petranec
+100,0,3,Mr. Pastcho Petroff,male,29.0,0,0,7.8958,9.895800000000001,23.6874,mr. pastcho petroff
+101,0,1,Mr. Richard Frasar White,male,21.0,0,1,77.2875,79.2875,77.2875,mr. richard frasar white
+102,0,3,Mr. Gustaf Joel Johansson,male,33.0,0,0,8.6542,10.6542,25.9626,mr. gustaf joel johansson
+103,0,3,Mr. Anders Vilhelm Gustafsson,male,37.0,2,0,7.925,9.925,23.775,mr. anders vilhelm gustafsson
+104,0,3,Mr. Stoytcho Mionoff,male,28.0,0,0,7.8958,9.895800000000001,23.6874,mr. stoytcho mionoff
+105,1,3,Miss. Anna Kristine Salkjelsvik,female,21.0,0,0,7.65,9.65,22.950000000000003,miss. anna kristine salkjelsvik
+106,1,3,Mr. Albert Johan Moss,male,29.0,0,0,7.775,9.775,23.325000000000003,mr. albert johan moss
+107,0,3,Mr. Tido Rekic,male,38.0,0,0,7.8958,9.895800000000001,23.6874,mr. tido rekic
+108,1,3,Miss. Bertha Moran,female,28.0,1,0,24.15,26.15,72.44999999999999,miss. bertha moran
+109,0,1,Mr. Walter Chamberlain Porter,male,47.0,0,0,52.0,54.0,52.0,mr. walter chamberlain porter
+110,0,3,Miss. Hileni Zabour,female,14.5,1,0,14.4542,16.4542,43.3626,miss. hileni zabour
+111,0,3,Mr. David John Barton,male,22.0,0,0,8.05,10.05,24.150000000000002,mr. david john barton
+112,0,3,Miss. Katriina Jussila,female,20.0,1,0,9.825,11.825,29.474999999999998,miss. katriina jussila
+113,0,3,Miss. Malake Attalah,female,17.0,0,0,14.4583,16.4583,43.3749,miss. malake attalah
+114,0,3,Mr. Edvard Pekoniemi,male,21.0,0,0,7.925,9.925,23.775,mr. edvard pekoniemi
+115,0,3,Mr. Patrick Connors,male,70.5,0,0,7.75,9.75,23.25,mr. patrick connors
+116,0,2,Mr. William John Robert Turpin,male,29.0,1,0,21.0,23.0,42.0,mr. william john robert turpin
+117,0,1,Mr. Quigg Edmond Baxter,male,24.0,0,1,247.5208,249.5208,247.5208,mr. quigg edmond baxter
+118,0,3,Miss. Ellis Anna Maria Andersson,female,2.0,4,2,31.275,33.275,93.82499999999999,miss. ellis anna maria andersson
+119,0,2,Mr. Stanley George Hickman,male,21.0,2,0,73.5,75.5,147.0,mr. stanley george hickman
+120,0,3,Mr. Leonard Charles Moore,male,19.0,0,0,8.05,10.05,24.150000000000002,mr. leonard charles moore
+121,0,2,Mr. Nicholas Nasser,male,32.5,1,0,30.0708,32.0708,60.1416,mr. nicholas nasser
+122,1,2,Miss. Susan Webber,female,32.5,0,0,13.0,15.0,26.0,miss. susan webber
+123,0,1,Mr. Percival Wayland White,male,54.0,0,1,77.2875,79.2875,77.2875,mr. percival wayland white
+124,1,3,Master. Elias Nicola-Yarred,male,12.0,1,0,11.2417,13.2417,33.7251,master. elias nicola-yarred
+125,0,3,Mr. Martin McMahon,male,19.0,0,0,7.75,9.75,23.25,mr. martin mcmahon
+126,1,3,Mr. Fridtjof Arne Madsen,male,24.0,0,0,7.1417,9.1417,21.4251,mr. fridtjof arne madsen
+127,1,3,Miss. Anna Peter,female,2.0,1,1,22.3583,24.3583,67.0749,miss. anna peter
+128,0,3,Mr. Johan Ekstrom,male,45.0,0,0,6.975,8.975,20.924999999999997,mr. johan ekstrom
+129,0,3,Mr. Jozef Drazenoic,male,33.0,0,0,7.8958,9.895800000000001,23.6874,mr. jozef drazenoic
+130,0,3,Mr. Domingos Fernandeo Coelho,male,20.0,0,0,7.05,9.05,21.15,mr. domingos fernandeo coelho
+131,0,3,Mrs. Alexander A (Grace Charity Laury) Robins,female,47.0,1,0,14.5,16.5,43.5,mrs. alexander a (grace charity laury) robins
+132,1,2,Mrs. Leopold (Mathilde Francoise Pede) Weisz,female,29.0,1,0,26.0,28.0,52.0,mrs. leopold (mathilde francoise pede) weisz
+133,0,2,Mr. Samuel James Hayden Sobey,male,25.0,0,0,13.0,15.0,26.0,mr. samuel james hayden sobey
+134,0,2,Mr. Emile Richard,male,23.0,0,0,15.0458,17.0458,30.0916,mr. emile richard
+135,1,1,Miss. Helen Monypeny Newsom,female,19.0,0,2,26.2833,28.2833,26.2833,miss. helen monypeny newsom
+136,0,1,Mr. Jacques Heath Futrelle,male,37.0,1,0,53.1,55.1,53.1,mr. jacques heath futrelle
+137,0,3,Mr. Olaf Elon Osen,male,16.0,0,0,9.2167,11.2167,27.6501,mr. olaf elon osen
+138,0,1,Mr. Victor Giglio,male,24.0,0,0,79.2,81.2,79.2,mr. victor giglio
+139,0,3,Mrs. Joseph (Sultana) Boulos,female,40.0,0,2,15.2458,17.2458,45.737399999999994,mrs. joseph (sultana) boulos
+140,1,3,Miss. Anna Sofia Nysten,female,22.0,0,0,7.75,9.75,23.25,miss. anna sofia nysten
+141,1,3,Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen,female,24.0,1,0,15.85,17.85,47.55,mrs. pekka pietari (elin matilda dolck) hakkarainen
+142,0,3,Mr. Jeremiah Burke,male,19.0,0,0,6.75,8.75,20.25,mr. jeremiah burke
+143,0,2,Mr. Edgardo Samuel Andrew,male,18.0,0,0,11.5,13.5,23.0,mr. edgardo samuel andrew
+144,0,2,Mr. Joseph Charles Nicholls,male,19.0,1,1,36.75,38.75,73.5,mr. joseph charles nicholls
+145,1,3,Mr. August Edvard Andersson,male,27.0,0,0,7.7958,9.7958,23.3874,mr. august edvard andersson
+146,0,3,Miss. Robina Maggie Ford,female,9.0,2,2,34.375,36.375,103.125,miss. robina maggie ford
+147,0,2,Mr. Michel Navratil,male,36.5,0,2,26.0,28.0,52.0,mr. michel navratil
+148,0,2,Rev. Thomas Roussel Davids Byles,male,42.0,0,0,13.0,15.0,26.0,rev. thomas roussel davids byles
+149,0,2,Rev. Robert James Bateman,male,51.0,0,0,12.525,14.525,25.05,rev. robert james bateman
+150,1,1,Mrs. Thomas (Edith Wearne) Pears,female,22.0,1,0,66.6,68.6,66.6,mrs. thomas (edith wearne) pears
+151,0,3,Mr. Alfonzo Meo,male,55.5,0,0,8.05,10.05,24.150000000000002,mr. alfonzo meo
+152,0,3,Mr. Austin Blyler van Billiard,male,40.5,0,2,14.5,16.5,43.5,mr. austin blyler van billiard
+153,0,3,Mr. Ole Martin Olsen,male,27.0,0,0,7.3125,9.3125,21.9375,mr. ole martin olsen
+154,0,1,Mr. Charles Duane Williams,male,51.0,0,1,61.3792,63.3792,61.3792,mr. charles duane williams
+155,1,3,Miss. Katherine Gilnagh,female,16.0,0,0,7.7333,9.7333,23.1999,miss. katherine gilnagh
+156,0,3,Mr. Harry Corn,male,30.0,0,0,8.05,10.05,24.150000000000002,mr. harry corn
+157,0,3,Mr. Mile Smiljanic,male,37.0,0,0,8.6625,10.6625,25.987499999999997,mr. mile smiljanic
+158,0,3,Master. Thomas Henry Sage,male,5.0,8,2,69.55,71.55,208.64999999999998,master. thomas henry sage
+159,0,3,Mr. John Hatfield Cribb,male,44.0,0,1,16.1,18.1,48.300000000000004,mr. john hatfield cribb
+160,1,2,Mrs. James (Elizabeth Inglis Milne) Watt,female,40.0,0,0,15.75,17.75,31.5,mrs. james (elizabeth inglis milne) watt
+161,0,3,Mr. John Viktor Bengtsson,male,26.0,0,0,7.775,9.775,23.325000000000003,mr. john viktor bengtsson
+162,0,3,Mr. Jovo Calic,male,17.0,0,0,8.6625,10.6625,25.987499999999997,mr. jovo calic
+163,0,3,Master. Eino Viljami Panula,male,1.0,4,1,39.6875,41.6875,119.0625,master. eino viljami panula
+164,1,3,Master. Frank John William Goldsmith,male,9.0,0,2,20.525,22.525,61.574999999999996,master. frank john william goldsmith
+165,1,1,Mrs. (Edith Martha Bowerman) Chibnall,female,48.0,0,1,55.0,57.0,55.0,mrs. (edith martha bowerman) chibnall
+166,0,3,Mrs. William (Anna Bernhardina Karlsson) Skoog,female,45.0,1,4,27.9,29.9,83.69999999999999,mrs. william (anna bernhardina karlsson) skoog
+167,0,1,Mr. John D Baumann,male,60.0,0,0,25.925,27.925,25.925,mr. john d baumann
+168,0,3,Mr. Lee Ling,male,28.0,0,0,56.4958,58.4958,169.4874,mr. lee ling
+169,0,1,Mr. Wyckoff Van der hoef,male,61.0,0,0,33.5,35.5,33.5,mr. wyckoff van der hoef
+170,0,3,Master. Arthur Rice,male,4.0,4,1,29.125,31.125,87.375,master. arthur rice
+171,1,3,Miss. Eleanor Ileen Johnson,female,1.0,1,1,11.1333,13.1333,33.3999,miss. eleanor ileen johnson
+172,0,3,Mr. Antti Wilhelm Sivola,male,21.0,0,0,7.925,9.925,23.775,mr. antti wilhelm sivola
+173,0,1,Mr. James Clinch Smith,male,56.0,0,0,30.6958,32.6958,30.6958,mr. james clinch smith
+174,0,3,Mr. Klas Albin Klasen,male,18.0,1,1,7.8542,9.854199999999999,23.5626,mr. klas albin klasen
+175,0,3,Master. Henry Forbes Lefebre,male,5.0,3,1,25.4667,27.4667,76.4001,master. henry forbes lefebre
+176,0,1,Miss. Ann Elizabeth Isham,female,50.0,0,0,28.7125,30.7125,28.7125,miss. ann elizabeth isham
+177,0,2,Mr. Reginald Hale,male,30.0,0,0,13.0,15.0,26.0,mr. reginald hale
+178,0,3,Mr. Lionel Leonard,male,36.0,0,0,0.0,2.0,0.0,mr. lionel leonard
+179,0,3,Miss. Constance Gladys Sage,female,8.0,8,2,69.55,71.55,208.64999999999998,miss. constance gladys sage
+180,0,2,Mr. Rene Pernot,male,39.0,0,0,15.05,17.05,30.1,mr. rene pernot
+181,0,3,Master. Clarence Gustaf Hugo Asplund,male,9.0,4,2,31.3875,33.3875,94.1625,master. clarence gustaf hugo asplund
+182,1,2,Master. Richard F Becker,male,1.0,2,1,39.0,41.0,78.0,master. richard f becker
+183,1,3,Miss. Luise Gretchen Kink-Heilmann,female,4.0,0,2,22.025,24.025,66.07499999999999,miss. luise gretchen kink-heilmann
+184,0,1,Mr. Hugh Roscoe Rood,male,39.0,0,0,50.0,52.0,50.0,mr. hugh roscoe rood
+185,1,3,Mrs. Thomas (Johanna Godfrey) O'Brien,female,26.0,1,0,15.5,17.5,46.5,mrs. thomas (johanna godfrey) o'brien
+186,1,1,Mr. Charles Hallace Romaine,male,45.0,0,0,26.55,28.55,26.55,mr. charles hallace romaine
+187,0,3,Mr. John Bourke,male,40.0,1,1,15.5,17.5,46.5,mr. john bourke
+188,0,3,Mr. Stjepan Turcin,male,36.0,0,0,7.8958,9.895800000000001,23.6874,mr. stjepan turcin
+189,1,2,Mrs. (Rosa) Pinsky,female,32.0,0,0,13.0,15.0,26.0,mrs. (rosa) pinsky
+190,0,2,Mr. William Carbines,male,19.0,0,0,13.0,15.0,26.0,mr. william carbines
+191,1,3,Miss. Carla Christine Nielsine Andersen-Jensen,female,19.0,1,0,7.8542,9.854199999999999,23.5626,miss. carla christine nielsine andersen-jensen
+192,1,2,Master. Michel M Navratil,male,3.0,1,1,26.0,28.0,52.0,master. michel m navratil
+193,1,1,Mrs. James Joseph (Margaret Tobin) Brown,female,44.0,0,0,27.7208,29.7208,27.7208,mrs. james joseph (margaret tobin) brown
+194,1,1,Miss. Elise Lurette,female,58.0,0,0,146.5208,148.5208,146.5208,miss. elise lurette
+195,0,3,Mr. Robert Mernagh,male,28.0,0,0,7.75,9.75,23.25,mr. robert mernagh
+196,0,3,Mr. Karl Siegwart Andreas Olsen,male,42.0,0,1,8.4042,10.4042,25.2126,mr. karl siegwart andreas olsen
+197,1,3,Miss. Margaret Madigan,female,21.0,0,0,7.75,9.75,23.25,miss. margaret madigan
+198,0,2,Miss. Henriette Yrois,female,24.0,0,0,13.0,15.0,26.0,miss. henriette yrois
+199,0,3,Mr. Nestor Cyriel Vande Walle,male,28.0,0,0,9.5,11.5,28.5,mr. nestor cyriel vande walle
+200,0,3,Mr. Frederick Sage,male,17.0,8,2,69.55,71.55,208.64999999999998,mr. frederick sage
+201,0,3,Mr. Jakob Alfred Johanson,male,34.0,0,0,6.4958,8.4958,19.4874,mr. jakob alfred johanson
+202,0,3,Mr. Gerious Youseff,male,45.5,0,0,7.225,9.225,21.674999999999997,mr. gerious youseff
+203,1,3,Mr. Gurshon Cohen,male,18.0,0,0,8.05,10.05,24.150000000000002,mr. gurshon cohen
+204,0,3,Miss. Telma Matilda Strom,female,2.0,0,1,10.4625,12.4625,31.387500000000003,miss. telma matilda strom
+205,0,3,Mr. Karl Alfred Backstrom,male,32.0,1,0,15.85,17.85,47.55,mr. karl alfred backstrom
+206,1,3,Mr. Nassef Cassem Albimona,male,26.0,0,0,18.7875,20.7875,56.362500000000004,mr. nassef cassem albimona
+207,1,3,Miss. Helen Carr,female,16.0,0,0,7.75,9.75,23.25,miss. helen carr
+208,1,1,Mr. Henry Blank,male,40.0,0,0,31.0,33.0,31.0,mr. henry blank
+209,0,3,Mr. Ahmed Ali,male,24.0,0,0,7.05,9.05,21.15,mr. ahmed ali
+210,1,2,Miss. Clear Annie Cameron,female,35.0,0,0,21.0,23.0,42.0,miss. clear annie cameron
+211,0,3,Mr. John Henry Perkin,male,22.0,0,0,7.25,9.25,21.75,mr. john henry perkin
+212,0,2,Mr. Hans Kristensen Givard,male,30.0,0,0,13.0,15.0,26.0,mr. hans kristensen givard
+213,0,3,Mr. Philip Kiernan,male,22.0,1,0,7.75,9.75,23.25,mr. philip kiernan
+214,1,1,Miss. Madeleine Newell,female,31.0,1,0,113.275,115.275,113.275,miss. madeleine newell
+215,1,3,Miss. Eliina Honkanen,female,27.0,0,0,7.925,9.925,23.775,miss. eliina honkanen
+216,0,2,Mr. Sidney Samuel Jacobsohn,male,42.0,1,0,27.0,29.0,54.0,mr. sidney samuel jacobsohn
+217,1,1,Miss. Albina Bazzani,female,32.0,0,0,76.2917,78.2917,76.2917,miss. albina bazzani
+218,0,2,Mr. Walter Harris,male,30.0,0,0,10.5,12.5,21.0,mr. walter harris
+219,1,3,Mr. Victor Francis Sunderland,male,16.0,0,0,8.05,10.05,24.150000000000002,mr. victor francis sunderland
+220,0,2,Mr. James H Bracken,male,27.0,0,0,13.0,15.0,26.0,mr. james h bracken
+221,0,3,Mr. George Henry Green,male,51.0,0,0,8.05,10.05,24.150000000000002,mr. george henry green
+222,0,3,Mr. Christo Nenkoff,male,22.0,0,0,7.8958,9.895800000000001,23.6874,mr. christo nenkoff
+223,1,1,Mr. Frederick Maxfield Hoyt,male,38.0,1,0,90.0,92.0,90.0,mr. frederick maxfield hoyt
+224,0,3,Mr. Karl Ivar Sven Berglund,male,22.0,0,0,9.35,11.35,28.049999999999997,mr. karl ivar sven berglund
+225,1,2,Mr. William John Mellors,male,19.0,0,0,10.5,12.5,21.0,mr. william john mellors
+226,0,3,Mr. John Hall Lovell,male,20.5,0,0,7.25,9.25,21.75,mr. john hall lovell
+227,0,2,Mr. Arne Jonas Fahlstrom,male,18.0,0,0,13.0,15.0,26.0,mr. arne jonas fahlstrom
+228,0,3,Miss. Mathilde Lefebre,female,12.0,3,1,25.4667,27.4667,76.4001,miss. mathilde lefebre
+229,1,1,Mrs. Henry Birkhardt (Irene Wallach) Harris,female,35.0,1,0,83.475,85.475,83.475,mrs. henry birkhardt (irene wallach) harris
+230,0,3,Mr. Bengt Edvin Larsson,male,29.0,0,0,7.775,9.775,23.325000000000003,mr. bengt edvin larsson
+231,0,2,Mr. Ernst Adolf Sjostedt,male,59.0,0,0,13.5,15.5,27.0,mr. ernst adolf sjostedt
+232,1,3,Miss. Lillian Gertrud Asplund,female,5.0,4,2,31.3875,33.3875,94.1625,miss. lillian gertrud asplund
+233,0,2,Mr. Robert William Norman Leyson,male,24.0,0,0,10.5,12.5,21.0,mr. robert william norman leyson
+234,0,3,Miss. Alice Phoebe Harknett,female,21.0,0,0,7.55,9.55,22.65,miss. alice phoebe harknett
+235,0,2,Mr. Stephen Hold,male,44.0,1,0,26.0,28.0,52.0,mr. stephen hold
+236,1,2,Miss. Marjorie Collyer,female,8.0,0,2,26.25,28.25,52.5,miss. marjorie collyer
+237,0,2,Mr. Frederick William Pengelly,male,19.0,0,0,10.5,12.5,21.0,mr. frederick william pengelly
+238,0,2,Mr. George Henry Hunt,male,33.0,0,0,12.275,14.275,24.55,mr. george henry hunt
+239,0,3,Miss. Thamine Zabour,female,19.0,1,0,14.4542,16.4542,43.3626,miss. thamine zabour
+240,1,3,Miss. Katherine Murphy,female,18.0,1,0,15.5,17.5,46.5,miss. katherine murphy
+241,0,2,Mr. Reginald Charles Coleridge,male,29.0,0,0,10.5,12.5,21.0,mr. reginald charles coleridge
+242,0,3,Mr. Matti Alexanteri Maenpaa,male,22.0,0,0,7.125,9.125,21.375,mr. matti alexanteri maenpaa
+243,0,3,Mr. Sleiman Attalah,male,30.0,0,0,7.225,9.225,21.674999999999997,mr. sleiman attalah
+244,0,1,Dr. William Edward Minahan,male,44.0,2,0,90.0,92.0,90.0,dr. william edward minahan
+245,0,3,Miss. Agda Thorilda Viktoria Lindahl,female,25.0,0,0,7.775,9.775,23.325000000000003,miss. agda thorilda viktoria lindahl
+246,1,2,Mrs. William (Anna) Hamalainen,female,24.0,0,2,14.5,16.5,29.0,mrs. william (anna) hamalainen
+247,1,1,Mr. Richard Leonard Beckwith,male,37.0,1,1,52.5542,54.5542,52.5542,mr. richard leonard beckwith
+248,0,2,Rev. Ernest Courtenay Carter,male,54.0,1,0,26.0,28.0,52.0,rev. ernest courtenay carter
+249,0,3,Mr. James George Reed,male,18.0,0,0,7.25,9.25,21.75,mr. james george reed
+250,0,3,Mrs. Wilhelm (Elna Matilda Persson) Strom,female,29.0,1,1,10.4625,12.4625,31.387500000000003,mrs. wilhelm (elna matilda persson) strom
+251,0,1,Mr. William Thomas Stead,male,62.0,0,0,26.55,28.55,26.55,mr. william thomas stead
+252,0,3,Mr. William Arthur Lobb,male,30.0,1,0,16.1,18.1,48.300000000000004,mr. william arthur lobb
+253,0,3,Mrs. Viktor (Helena Wilhelmina) Rosblom,female,41.0,0,2,20.2125,22.2125,60.637499999999996,mrs. viktor (helena wilhelmina) rosblom
+254,1,3,Mrs. Darwis (Hanne Youssef Razi) Touma,female,29.0,0,2,15.2458,17.2458,45.737399999999994,mrs. darwis (hanne youssef razi) touma
+255,1,1,Mrs. Gertrude Maybelle Thorne,female,38.0,0,0,79.2,81.2,79.2,mrs. gertrude maybelle thorne
+256,1,1,Miss. Gladys Cherry,female,30.0,0,0,86.5,88.5,86.5,miss. gladys cherry
+257,1,1,Miss. Anna Ward,female,35.0,0,0,512.3292,514.3292,512.3292,miss. anna ward
+258,1,2,Mrs. (Lutie Davis) Parrish,female,50.0,0,1,26.0,28.0,52.0,mrs. (lutie davis) parrish
+259,1,3,Master. Edvin Rojj Felix Asplund,male,3.0,4,2,31.3875,33.3875,94.1625,master. edvin rojj felix asplund
+260,0,1,Mr. Emil Taussig,male,52.0,1,1,79.65,81.65,79.65,mr. emil taussig
+261,0,1,Mr. William Harrison,male,40.0,0,0,0.0,2.0,0.0,mr. william harrison
+262,0,3,Miss. Delia Henry,female,21.0,0,0,7.75,9.75,23.25,miss. delia henry
+263,0,2,Mr. David Reeves,male,36.0,0,0,10.5,12.5,21.0,mr. david reeves
+264,0,3,Mr. Ernesti Arvid Panula,male,16.0,4,1,39.6875,41.6875,119.0625,mr. ernesti arvid panula
+265,1,3,Mr. Ernst Ulrik Persson,male,25.0,1,0,7.775,9.775,23.325000000000003,mr. ernst ulrik persson
+266,1,1,Mrs. William Thompson (Edith Junkins) Graham,female,58.0,0,1,153.4625,155.4625,153.4625,mrs. william thompson (edith junkins) graham
+267,1,1,Miss. Amelia Bissette,female,35.0,0,0,135.6333,137.6333,135.6333,miss. amelia bissette
+268,0,1,Mr. Alexander Cairns,male,28.0,0,0,31.0,33.0,31.0,mr. alexander cairns
+269,1,3,Mr. William Henry Tornquist,male,25.0,0,0,0.0,2.0,0.0,mr. william henry tornquist
+270,1,2,Mrs. (Elizabeth Anne Maidment) Mellinger,female,41.0,0,1,19.5,21.5,39.0,mrs. (elizabeth anne maidment) mellinger
+271,0,1,Mr. Charles H Natsch,male,37.0,0,1,29.7,31.7,29.7,mr. charles h natsch
+272,1,3,Miss. Hanora Healy,female,33.0,0,0,7.75,9.75,23.25,miss. hanora healy
+273,1,1,Miss. Kornelia Theodosia Andrews,female,63.0,1,0,77.9583,79.9583,77.9583,miss. kornelia theodosia andrews
+274,0,3,Miss. Augusta Charlotta Lindblom,female,45.0,0,0,7.75,9.75,23.25,miss. augusta charlotta lindblom
+275,0,2,Mr. Francis Parkes,male,21.0,0,0,0.0,2.0,0.0,mr. francis parkes
+276,0,3,Master. Eric Rice,male,7.0,4,1,29.125,31.125,87.375,master. eric rice
+277,1,3,Mrs. Stanton (Rosa Hunt) Abbott,female,35.0,1,1,20.25,22.25,60.75,mrs. stanton (rosa hunt) abbott
+278,0,3,Mr. Frank Duane,male,65.0,0,0,7.75,9.75,23.25,mr. frank duane
+279,0,3,Mr. Nils Johan Goransson Olsson,male,28.0,0,0,7.8542,9.854199999999999,23.5626,mr. nils johan goransson olsson
+280,0,3,Mr. Alfons de Pelsmaeker,male,16.0,0,0,9.5,11.5,28.5,mr. alfons de pelsmaeker
+281,1,3,Mr. Edward Arthur Dorking,male,19.0,0,0,8.05,10.05,24.150000000000002,mr. edward arthur dorking
+282,0,1,Mr. Richard William Smith,male,57.0,0,0,26.0,28.0,26.0,mr. richard william smith
+283,0,3,Mr. Ivan Stankovic,male,33.0,0,0,8.6625,10.6625,25.987499999999997,mr. ivan stankovic
+284,1,3,Mr. Theodore de Mulder,male,30.0,0,0,9.5,11.5,28.5,mr. theodore de mulder
+285,0,3,Mr. Penko Naidenoff,male,22.0,0,0,7.8958,9.895800000000001,23.6874,mr. penko naidenoff
+286,1,2,Mr. Masabumi Hosono,male,42.0,0,0,13.0,15.0,26.0,mr. masabumi hosono
+287,1,3,Miss. Kate Connolly,female,22.0,0,0,7.75,9.75,23.25,miss. kate connolly
+288,1,1,Miss. Ellen Barber,female,26.0,0,0,78.85,80.85,78.85,miss. ellen barber
+289,1,1,Mrs. Dickinson H (Helen Walton) Bishop,female,19.0,1,0,91.0792,93.0792,91.0792,mrs. dickinson h (helen walton) bishop
+290,0,2,Mr. Rene Jacques Levy,male,36.0,0,0,12.875,14.875,25.75,mr. rene jacques levy
+291,0,3,Miss. Aloisia Haas,female,24.0,0,0,8.85,10.85,26.549999999999997,miss. aloisia haas
+292,0,3,Mr. Ivan Mineff,male,24.0,0,0,7.8958,9.895800000000001,23.6874,mr. ivan mineff
+293,0,1,Mr. Ervin G Lewy,male,30.0,0,0,27.7208,29.7208,27.7208,mr. ervin g lewy
+294,0,3,Mr. Mansour Hanna,male,23.5,0,0,7.2292,9.229199999999999,21.6876,mr. mansour hanna
+295,0,1,Miss. Helen Loraine Allison,female,2.0,1,2,151.55,153.55,151.55,miss. helen loraine allison
+296,1,1,Mr. Adolphe Saalfeld,male,47.0,0,0,30.5,32.5,30.5,mr. adolphe saalfeld
+297,1,1,Mrs. James (Helene DeLaudeniere Chaput) Baxter,female,50.0,0,1,247.5208,249.5208,247.5208,mrs. james (helene delaudeniere chaput) baxter
+298,1,3,Miss. Anna Katherine Kelly,female,20.0,0,0,7.75,9.75,23.25,miss. anna katherine kelly
+299,1,3,Mr. Bernard McCoy,male,24.0,2,0,23.25,25.25,69.75,mr. bernard mccoy
+300,0,3,Mr. William Cahoone Jr Johnson,male,19.0,0,0,0.0,2.0,0.0,mr. william cahoone jr johnson
+301,1,2,Miss. Nora A Keane,female,46.0,0,0,12.35,14.35,24.7,miss. nora a keane
+302,0,3,Mr. Howard Hugh Williams,male,28.0,0,0,8.05,10.05,24.150000000000002,mr. howard hugh williams
+303,1,1,Master. Hudson Trevor Allison,male,0.92,1,2,151.55,153.55,151.55,master. hudson trevor allison
+304,1,1,Miss. Margaret Fleming,female,42.0,0,0,110.8833,112.8833,110.8833,miss. margaret fleming
+305,1,1,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,female,17.0,1,0,108.9,110.9,108.9,mrs. victor de satode (maria josefa perez de soto y vallejo) penasco y castellana
+306,0,2,Mr. Samuel Abelson,male,30.0,1,0,24.0,26.0,48.0,mr. samuel abelson
+307,1,1,Miss. Laura Mabel Francatelli,female,30.0,0,0,56.9292,58.9292,56.9292,miss. laura mabel francatelli
+308,1,1,Miss. Margaret Bechstein Hays,female,24.0,0,0,83.1583,85.1583,83.1583,miss. margaret bechstein hays
+309,1,1,Miss. Emily Borie Ryerson,female,18.0,2,2,262.375,264.375,262.375,miss. emily borie ryerson
+310,0,2,Mrs. William (Anna Sylfven) Lahtinen,female,26.0,1,1,26.0,28.0,52.0,mrs. william (anna sylfven) lahtinen
+311,0,3,Mr. Ignjac Hendekovic,male,28.0,0,0,7.8958,9.895800000000001,23.6874,mr. ignjac hendekovic
+312,0,2,Mr. Benjamin Hart,male,43.0,1,1,26.25,28.25,52.5,mr. benjamin hart
+313,1,3,Miss. Helmina Josefina Nilsson,female,26.0,0,0,7.8542,9.854199999999999,23.5626,miss. helmina josefina nilsson
+314,1,2,Mrs. Sinai (Miriam Sternin) Kantor,female,24.0,1,0,26.0,28.0,52.0,mrs. sinai (miriam sternin) kantor
+315,0,2,Dr. Ernest Moraweck,male,54.0,0,0,14.0,16.0,28.0,dr. ernest moraweck
+316,1,1,Miss. Mary Natalie Wick,female,31.0,0,2,164.8667,166.8667,164.8667,miss. mary natalie wick
+317,1,1,Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden,female,40.0,1,1,134.5,136.5,134.5,mrs. frederic oakley (margaretta corning stone) spedden
+318,0,3,Mr. Samuel Dennis,male,22.0,0,0,7.25,9.25,21.75,mr. samuel dennis
+319,0,3,Mr. Yoto Danoff,male,27.0,0,0,7.8958,9.895800000000001,23.6874,mr. yoto danoff
+320,1,2,Miss. Hilda Mary Slayter,female,30.0,0,0,12.35,14.35,24.7,miss. hilda mary slayter
+321,1,2,Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell,female,22.0,1,1,29.0,31.0,58.0,mrs. albert francis (sylvia mae harbaugh) caldwell
+322,0,3,Mr. George John Jr Sage,male,20.0,8,2,69.55,71.55,208.64999999999998,mr. george john jr sage
+323,1,1,Miss. Marie Grice Young,female,36.0,0,0,135.6333,137.6333,135.6333,miss. marie grice young
+324,0,3,Mr. Johan Hansen Nysveen,male,61.0,0,0,6.2375,8.2375,18.7125,mr. johan hansen nysveen
+325,1,2,Mrs. (Ada E Hall) Ball,female,36.0,0,0,13.0,15.0,26.0,mrs. (ada e hall) ball
+326,1,3,Mrs. Frank John (Emily Alice Brown) Goldsmith,female,31.0,1,1,20.525,22.525,61.574999999999996,mrs. frank john (emily alice brown) goldsmith
+327,1,1,Miss. Jean Gertrude Hippach,female,16.0,0,1,57.9792,59.9792,57.9792,miss. jean gertrude hippach
+328,1,3,Miss. Agnes McCoy,female,28.0,2,0,23.25,25.25,69.75,miss. agnes mccoy
+329,0,1,Mr. Austen Partner,male,45.5,0,0,28.5,30.5,28.5,mr. austen partner
+330,0,1,Mr. George Edward Graham,male,38.0,0,1,153.4625,155.4625,153.4625,mr. george edward graham
+331,0,3,Mr. Leo Edmondus Vander Planke,male,16.0,2,0,18.0,20.0,54.0,mr. leo edmondus vander planke
+332,1,1,Mrs. Henry William (Clara Heinsheimer) Frauenthal,female,42.0,1,0,133.65,135.65,133.65,mrs. henry william (clara heinsheimer) frauenthal
+333,0,3,Mr. Mitto Denkoff,male,30.0,0,0,7.8958,9.895800000000001,23.6874,mr. mitto denkoff
+334,0,1,Mr. Thomas Clinton Pears,male,29.0,1,0,66.6,68.6,66.6,mr. thomas clinton pears
+335,1,1,Miss. Elizabeth Margaret Burns,female,41.0,0,0,134.5,136.5,134.5,miss. elizabeth margaret burns
+336,1,3,Mr. Karl Edwart Dahl,male,45.0,0,0,8.05,10.05,24.150000000000002,mr. karl edwart dahl
+337,0,1,Mr. Stephen Weart Blackwell,male,45.0,0,0,35.5,37.5,35.5,mr. stephen weart blackwell
+338,1,2,Master. Edmond Roger Navratil,male,2.0,1,1,26.0,28.0,52.0,master. edmond roger navratil
+339,1,1,Miss. Alice Elizabeth Fortune,female,24.0,3,2,263.0,265.0,263.0,miss. alice elizabeth fortune
+340,0,2,Mr. Erik Gustaf Collander,male,28.0,0,0,13.0,15.0,26.0,mr. erik gustaf collander
+341,0,2,Mr. Charles Frederick Waddington Sedgwick,male,25.0,0,0,13.0,15.0,26.0,mr. charles frederick waddington sedgwick
+342,0,2,Mr. Stanley Hubert Fox,male,36.0,0,0,13.0,15.0,26.0,mr. stanley hubert fox
+343,1,2,Miss. Amelia Brown,female,24.0,0,0,13.0,15.0,26.0,miss. amelia brown
+344,1,2,Miss. Marion Elsie Smith,female,40.0,0,0,13.0,15.0,26.0,miss. marion elsie smith
+345,1,3,Mrs. Thomas Henry (Mary E Finck) Davison,female,34.0,1,0,16.1,18.1,48.300000000000004,mrs. thomas henry (mary e finck) davison
+346,1,3,Master. William Loch Coutts,male,3.0,1,1,15.9,17.9,47.7,master. william loch coutts
+347,0,3,Mr. Jovan Dimic,male,42.0,0,0,8.6625,10.6625,25.987499999999997,mr. jovan dimic
+348,0,3,Mr. Nils Martin Odahl,male,23.0,0,0,9.225,11.225,27.674999999999997,mr. nils martin odahl
+349,0,1,Mr. Fletcher Fellows Williams-Lambert,male,43.0,0,0,35.0,37.0,35.0,mr. fletcher fellows williams-lambert
+350,0,3,Mr. Tannous Elias,male,15.0,1,1,7.2292,9.229199999999999,21.6876,mr. tannous elias
+351,0,3,Mr. Josef Arnold-Franchi,male,25.0,1,0,17.8,19.8,53.400000000000006,mr. josef arnold-franchi
+352,0,3,Mr. Wazli Yousif,male,23.0,0,0,7.225,9.225,21.674999999999997,mr. wazli yousif
+353,0,3,Mr. Leo Peter Vanden Steen,male,28.0,0,0,9.5,11.5,28.5,mr. leo peter vanden steen
+354,1,1,Miss. Elsie Edith Bowerman,female,22.0,0,1,55.0,57.0,55.0,miss. elsie edith bowerman
+355,0,2,Miss. Annie Clemmer Funk,female,38.0,0,0,13.0,15.0,26.0,miss. annie clemmer funk
+356,1,3,Miss. Mary McGovern,female,22.0,0,0,7.8792,9.8792,23.6376,miss. mary mcgovern
+357,1,3,Miss. Helen Mary Mockler,female,23.0,0,0,7.8792,9.8792,23.6376,miss. helen mary mockler
+358,0,3,Mr. Wilhelm Skoog,male,40.0,1,4,27.9,29.9,83.69999999999999,mr. wilhelm skoog
+359,0,2,Mr. Sebastiano del Carlo,male,29.0,1,0,27.7208,29.7208,55.4416,mr. sebastiano del carlo
+360,0,3,Mrs. (Catherine David) Barbara,female,45.0,0,1,14.4542,16.4542,43.3626,mrs. (catherine david) barbara
+361,0,3,Mr. Adola Asim,male,35.0,0,0,7.05,9.05,21.15,mr. adola asim
+362,0,3,Mr. Thomas O'Brien,male,27.0,1,0,15.5,17.5,46.5,mr. thomas o'brien
+363,0,3,Mr. Mauritz Nils Martin Adahl,male,30.0,0,0,7.25,9.25,21.75,mr. mauritz nils martin adahl
+364,1,1,Mrs. Frank Manley (Anna Sophia Atkinson) Warren,female,60.0,1,0,75.25,77.25,75.25,mrs. frank manley (anna sophia atkinson) warren
+365,1,3,Mrs. (Mantoura Boulos) Moussa,female,35.0,0,0,7.2292,9.229199999999999,21.6876,mrs. (mantoura boulos) moussa
+366,1,3,Miss. Annie Jermyn,female,22.0,0,0,7.75,9.75,23.25,miss. annie jermyn
+367,1,1,Mme. Leontine Pauline Aubart,female,24.0,0,0,69.3,71.3,69.3,mme. leontine pauline aubart
+368,1,1,Mr. George Achilles Harder,male,25.0,1,0,55.4417,57.4417,55.4417,mr. george achilles harder
+369,0,3,Mr. Jakob Alfred Wiklund,male,18.0,1,0,6.4958,8.4958,19.4874,mr. jakob alfred wiklund
+370,0,3,Mr. William Thomas Beavan,male,19.0,0,0,8.05,10.05,24.150000000000002,mr. william thomas beavan
+371,0,1,Mr. Sante Ringhini,male,22.0,0,0,135.6333,137.6333,135.6333,mr. sante ringhini
+372,0,3,Miss. Stina Viola Palsson,female,3.0,3,1,21.075,23.075,63.224999999999994,miss. stina viola palsson
+373,1,1,Mrs. Edgar Joseph (Leila Saks) Meyer,female,25.0,1,0,82.1708,84.1708,82.1708,mrs. edgar joseph (leila saks) meyer
+374,1,3,Miss. Aurora Adelia Landergren,female,22.0,0,0,7.25,9.25,21.75,miss. aurora adelia landergren
+375,0,1,Mr. Harry Elkins Widener,male,27.0,0,2,211.5,213.5,211.5,mr. harry elkins widener
+376,0,3,Mr. Tannous Betros,male,20.0,0,0,4.0125,6.0125,12.037500000000001,mr. tannous betros
+377,0,3,Mr. Karl Gideon Gustafsson,male,19.0,0,0,7.775,9.775,23.325000000000003,mr. karl gideon gustafsson
+378,1,1,Miss. Rosalie Bidois,female,42.0,0,0,227.525,229.525,227.525,miss. rosalie bidois
+379,1,3,Miss. Maria Nakid,female,1.0,0,2,15.7417,17.7417,47.2251,miss. maria nakid
+380,0,3,Mr. Juho Tikkanen,male,32.0,0,0,7.925,9.925,23.775,mr. juho tikkanen
+381,1,1,Mrs. Alexander Oskar (Mary Aline Towner) Holverson,female,35.0,1,0,52.0,54.0,52.0,mrs. alexander oskar (mary aline towner) holverson
+382,0,3,Mr. Vasil Plotcharsky,male,27.0,0,0,7.8958,9.895800000000001,23.6874,mr. vasil plotcharsky
+383,0,2,Mr. Charles Henry Davies,male,18.0,0,0,73.5,75.5,147.0,mr. charles henry davies
+384,0,3,Master. Sidney Leonard Goodwin,male,1.0,5,2,46.9,48.9,140.7,master. sidney leonard goodwin
+385,1,2,Miss. Kate Buss,female,36.0,0,0,13.0,15.0,26.0,miss. kate buss
+386,0,3,Mr. Matthew Sadlier,male,19.0,0,0,7.7292,9.729199999999999,23.1876,mr. matthew sadlier
+387,1,2,Miss. Bertha Lehmann,female,17.0,0,0,12.0,14.0,24.0,miss. bertha lehmann
+388,1,1,Mr. William Ernest Carter,male,36.0,1,2,120.0,122.0,120.0,mr. william ernest carter
+389,1,3,Mr. Carl Olof Jansson,male,21.0,0,0,7.7958,9.7958,23.3874,mr. carl olof jansson
+390,0,3,Mr. Johan Birger Gustafsson,male,28.0,2,0,7.925,9.925,23.775,mr. johan birger gustafsson
+391,1,1,Miss. Marjorie Newell,female,23.0,1,0,113.275,115.275,113.275,miss. marjorie newell
+392,1,3,Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,female,24.0,0,2,16.7,18.7,50.099999999999994,mrs. hjalmar (agnes charlotta bengtsson) sandstrom
+393,0,3,Mr. Erik Johansson,male,22.0,0,0,7.7958,9.7958,23.3874,mr. erik johansson
+394,0,3,Miss. Elina Olsson,female,31.0,0,0,7.8542,9.854199999999999,23.5626,miss. elina olsson
+395,0,2,Mr. Peter David McKane,male,46.0,0,0,26.0,28.0,52.0,mr. peter david mckane
+396,0,2,Dr. Alfred Pain,male,23.0,0,0,10.5,12.5,21.0,dr. alfred pain
+397,1,2,Mrs. William H (Jessie L) Trout,female,28.0,0,0,12.65,14.65,25.3,mrs. william h (jessie l) trout
+398,1,3,Mr. Juha Niskanen,male,39.0,0,0,7.925,9.925,23.775,mr. juha niskanen
+399,0,3,Mr. John Adams,male,26.0,0,0,8.05,10.05,24.150000000000002,mr. john adams
+400,0,3,Miss. Mari Aina Jussila,female,21.0,1,0,9.825,11.825,29.474999999999998,miss. mari aina jussila
+401,0,3,Mr. Pekka Pietari Hakkarainen,male,28.0,1,0,15.85,17.85,47.55,mr. pekka pietari hakkarainen
+402,0,3,Miss. Marija Oreskovic,female,20.0,0,0,8.6625,10.6625,25.987499999999997,miss. marija oreskovic
+403,0,2,Mr. Shadrach Gale,male,34.0,1,0,21.0,23.0,42.0,mr. shadrach gale
+404,0,3,Mr. Carl/Charles Peter Widegren,male,51.0,0,0,7.75,9.75,23.25,mr. carl/charles peter widegren
+405,1,2,Master. William Rowe Richards,male,3.0,1,1,18.75,20.75,37.5,master. william rowe richards
+406,0,3,Mr. Hans Martin Monsen Birkeland,male,21.0,0,0,7.775,9.775,23.325000000000003,mr. hans martin monsen birkeland
+407,0,3,Miss. Ida Lefebre,female,3.0,3,1,25.4667,27.4667,76.4001,miss. ida lefebre
+408,0,3,Mr. Todor Sdycoff,male,42.0,0,0,7.8958,9.895800000000001,23.6874,mr. todor sdycoff
+409,0,3,Mr. Henry Hart,male,27.0,0,0,6.8583,8.8583,20.5749,mr. henry hart
+410,1,1,Miss. Daisy E Minahan,female,33.0,1,0,90.0,92.0,90.0,miss. daisy e minahan
+411,0,2,Mr. Alfred Fleming Cunningham,male,22.0,0,0,0.0,2.0,0.0,mr. alfred fleming cunningham
+412,1,3,Mr. Johan Julian Sundman,male,44.0,0,0,7.925,9.925,23.775,mr. johan julian sundman
+413,0,3,Mrs. Thomas (Annie Louise Rowley) Meek,female,32.0,0,0,8.05,10.05,24.150000000000002,mrs. thomas (annie louise rowley) meek
+414,1,2,Mrs. James Vivian (Lulu Thorne Christian) Drew,female,34.0,1,1,32.5,34.5,65.0,mrs. james vivian (lulu thorne christian) drew
+415,1,2,Miss. Lyyli Karoliina Silven,female,18.0,0,2,13.0,15.0,26.0,miss. lyyli karoliina silven
+416,0,2,Mr. William John Matthews,male,30.0,0,0,13.0,15.0,26.0,mr. william john matthews
+417,0,3,Miss. Catharina Van Impe,female,10.0,0,2,24.15,26.15,72.44999999999999,miss. catharina van impe
+418,0,3,Mr. David Charters,male,21.0,0,0,7.7333,9.7333,23.1999,mr. david charters
+419,0,3,Mr. Leo Zimmerman,male,29.0,0,0,7.875,9.875,23.625,mr. leo zimmerman
+420,0,3,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,female,28.0,1,1,14.4,16.4,43.2,mrs. ernst gilbert (anna sigrid maria brogren) danbom
+421,0,3,Mr. Viktor Richard Rosblom,male,18.0,1,1,20.2125,22.2125,60.637499999999996,mr. viktor richard rosblom
+422,0,3,Mr. Phillippe Wiseman,male,54.0,0,0,7.25,9.25,21.75,mr. phillippe wiseman
+423,1,2,Mrs. Charles V (Ada Maria Winfield) Clarke,female,28.0,1,0,26.0,28.0,52.0,mrs. charles v (ada maria winfield) clarke
+424,1,2,Miss. Kate Florence Phillips,female,19.0,0,0,26.0,28.0,52.0,miss. kate florence phillips
+425,0,3,Mr. James Flynn,male,28.0,0,0,7.75,9.75,23.25,mr. james flynn
+426,1,3,Mr. Berk (Berk Trembisky) Pickard,male,32.0,0,0,8.05,10.05,24.150000000000002,mr. berk (berk trembisky) pickard
+427,1,1,Mr. Mauritz Hakan Bjornstrom-Steffansson,male,28.0,0,0,26.55,28.55,26.55,mr. mauritz hakan bjornstrom-steffansson
+428,1,3,Mrs. Percival (Florence Kate White) Thorneycroft,female,33.0,1,0,16.1,18.1,48.300000000000004,mrs. percival (florence kate white) thorneycroft
+429,1,2,Mrs. Charles Alexander (Alice Adelaide Slow) Louch,female,42.0,1,0,26.0,28.0,52.0,mrs. charles alexander (alice adelaide slow) louch
+430,0,3,Mr. Nikolai Erland Kallio,male,17.0,0,0,7.125,9.125,21.375,mr. nikolai erland kallio
+431,0,1,Mr. William Baird Silvey,male,50.0,1,0,55.9,57.9,55.9,mr. william baird silvey
+432,1,1,Miss. Lucile Polk Carter,female,14.0,1,2,120.0,122.0,120.0,miss. lucile polk carter
+433,0,3,Miss. Doolina Margaret Ford,female,21.0,2,2,34.375,36.375,103.125,miss. doolina margaret ford
+434,1,2,Mrs. Sidney (Emily Hocking) Richards,female,24.0,2,3,18.75,20.75,37.5,mrs. sidney (emily hocking) richards
+435,0,1,Mr. Mark Fortune,male,64.0,1,4,263.0,265.0,263.0,mr. mark fortune
+436,0,2,Mr. Johan Henrik Johannesson Kvillner,male,31.0,0,0,10.5,12.5,21.0,mr. johan henrik johannesson kvillner
+437,1,2,Mrs. Benjamin (Esther Ada Bloomfield) Hart,female,45.0,1,1,26.25,28.25,52.5,mrs. benjamin (esther ada bloomfield) hart
+438,0,3,Mr. Leon Hampe,male,20.0,0,0,9.5,11.5,28.5,mr. leon hampe
+439,0,3,Mr. Johan Emil Petterson,male,25.0,1,0,7.775,9.775,23.325000000000003,mr. johan emil petterson
+440,1,2,Ms. Encarnacion Reynaldo,female,28.0,0,0,13.0,15.0,26.0,ms. encarnacion reynaldo
+441,1,3,Mr. Bernt Johannesen-Bratthammer,male,29.0,0,0,8.1125,10.1125,24.337500000000002,mr. bernt johannesen-bratthammer
+442,1,1,Master. Washington Dodge,male,4.0,0,2,81.8583,83.8583,81.8583,master. washington dodge
+443,1,2,Miss. Madeleine Violet Mellinger,female,13.0,0,1,19.5,21.5,39.0,miss. madeleine violet mellinger
+444,1,1,Mr. Frederic Kimber Seward,male,34.0,0,0,26.55,28.55,26.55,mr. frederic kimber seward
+445,1,3,Miss. Marie Catherine Baclini,female,5.0,2,1,19.2583,21.2583,57.774899999999995,miss. marie catherine baclini
+446,1,1,Major. Arthur Godfrey Peuchen,male,52.0,0,0,30.5,32.5,30.5,major. arthur godfrey peuchen
+447,0,2,Mr. Edwy Arthur West,male,36.0,1,2,27.75,29.75,55.5,mr. edwy arthur west
+448,0,3,Mr. Ingvald Olai Olsen Hagland,male,28.0,1,0,19.9667,21.9667,59.900099999999995,mr. ingvald olai olsen hagland
+449,0,1,Mr. Benjamin Laventall Foreman,male,30.0,0,0,27.75,29.75,27.75,mr. benjamin laventall foreman
+450,1,1,Mr. Samuel L Goldenberg,male,49.0,1,0,89.1042,91.1042,89.1042,mr. samuel l goldenberg
+451,0,3,Mr. Joseph Peduzzi,male,24.0,0,0,8.05,10.05,24.150000000000002,mr. joseph peduzzi
+452,1,3,Mr. Ivan Jalsevac,male,29.0,0,0,7.8958,9.895800000000001,23.6874,mr. ivan jalsevac
+453,0,1,Mr. Francis Davis Millet,male,65.0,0,0,26.55,28.55,26.55,mr. francis davis millet
+454,1,1,Mrs. Frederick R (Marion) Kenyon,female,41.0,1,0,51.8625,53.8625,51.8625,mrs. frederick r (marion) kenyon
+455,1,2,Miss. Ellen Toomey,female,50.0,0,0,10.5,12.5,21.0,miss. ellen toomey
+456,0,3,Mr. Maurice O'Connor,male,17.0,0,0,7.75,9.75,23.25,mr. maurice o'connor
+457,1,1,Mr. Harry Anderson,male,48.0,0,0,26.55,28.55,26.55,mr. harry anderson
+458,0,3,Mr. William Morley,male,34.0,0,0,8.05,10.05,24.150000000000002,mr. william morley
+459,0,1,Mr. Arthur H Gee,male,47.0,0,0,38.5,40.5,38.5,mr. arthur h gee
+460,0,2,Mr. Jacob Christian Milling,male,48.0,0,0,13.0,15.0,26.0,mr. jacob christian milling
+461,0,3,Mr. Simon Maisner,male,34.0,0,0,8.05,10.05,24.150000000000002,mr. simon maisner
+462,0,3,Mr. Manuel Estanslas Goncalves,male,38.0,0,0,7.05,9.05,21.15,mr. manuel estanslas goncalves
+463,0,2,Mr. William Campbell,male,21.0,0,0,0.0,2.0,0.0,mr. william campbell
+464,0,1,Mr. John Montgomery Smart,male,56.0,0,0,26.55,28.55,26.55,mr. john montgomery smart
+465,0,3,Mr. James Scanlan,male,22.0,0,0,7.725,9.725,23.174999999999997,mr. james scanlan
+466,1,3,Miss. Helene Barbara Baclini,female,0.75,2,1,19.2583,21.2583,57.774899999999995,miss. helene barbara baclini
+467,0,3,Mr. Arthur Keefe,male,39.0,0,0,7.25,9.25,21.75,mr. arthur keefe
+468,0,3,Mr. Luka Cacic,male,38.0,0,0,8.6625,10.6625,25.987499999999997,mr. luka cacic
+469,1,2,Mrs. Edwy Arthur (Ada Mary Worth) West,female,33.0,1,2,27.75,29.75,55.5,mrs. edwy arthur (ada mary worth) west
+470,1,2,Mrs. Amin S (Marie Marthe Thuillard) Jerwan,female,23.0,0,0,13.7917,15.7917,27.5834,mrs. amin s (marie marthe thuillard) jerwan
+471,0,3,Miss. Ida Sofia Strandberg,female,22.0,0,0,9.8375,11.8375,29.512500000000003,miss. ida sofia strandberg
+472,0,1,Mr. George Quincy Clifford,male,40.0,0,0,52.0,54.0,52.0,mr. george quincy clifford
+473,0,2,Mr. Peter Henry Renouf,male,34.0,1,0,21.0,23.0,42.0,mr. peter henry renouf
+474,0,3,Mr. Lewis Richard Braund,male,29.0,1,0,7.0458,9.0458,21.1374,mr. lewis richard braund
+475,0,3,Mr. Nils August Karlsson,male,22.0,0,0,7.5208,9.520800000000001,22.5624,mr. nils august karlsson
+476,1,3,Miss. Hildur E Hirvonen,female,2.0,0,1,12.2875,14.2875,36.8625,miss. hildur e hirvonen
+477,0,3,Master. Harold Victor Goodwin,male,9.0,5,2,46.9,48.9,140.7,master. harold victor goodwin
+478,0,2,Mr. Anthony Wood Frost,male,37.0,0,0,0.0,2.0,0.0,mr. anthony wood frost
+479,0,3,Mr. Richard Henry Rouse,male,50.0,0,0,8.05,10.05,24.150000000000002,mr. richard henry rouse
+480,1,3,Mrs. (Hedwig) Turkula,female,63.0,0,0,9.5875,11.5875,28.762500000000003,mrs. (hedwig) turkula
+481,1,1,Mr. Dickinson H Bishop,male,25.0,1,0,91.0792,93.0792,91.0792,mr. dickinson h bishop
+482,0,3,Miss. Jeannie Lefebre,female,8.0,3,1,25.4667,27.4667,76.4001,miss. jeannie lefebre
+483,1,1,Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt,female,35.0,1,0,90.0,92.0,90.0,mrs. frederick maxfield (jane anne forby) hoyt
+484,0,1,Mr. Edward Austin Kent,male,58.0,0,0,29.7,31.7,29.7,mr. edward austin kent
+485,0,3,Mr. Francis William Somerton,male,30.0,0,0,8.05,10.05,24.150000000000002,mr. francis william somerton
+486,1,3,Master. Eden Leslie Coutts,male,9.0,1,1,15.9,17.9,47.7,master. eden leslie coutts
+487,0,3,Mr. Konrad Mathias Reiersen Hagland,male,19.0,1,0,19.9667,21.9667,59.900099999999995,mr. konrad mathias reiersen hagland
+488,0,3,Mr. Einar Windelov,male,21.0,0,0,7.25,9.25,21.75,mr. einar windelov
+489,0,1,Mr. Harry Markland Molson,male,55.0,0,0,30.5,32.5,30.5,mr. harry markland molson
+490,0,1,Mr. Ramon Artagaveytia,male,71.0,0,0,49.5042,51.5042,49.5042,mr. ramon artagaveytia
+491,0,3,Mr. Edward Roland Stanley,male,21.0,0,0,8.05,10.05,24.150000000000002,mr. edward roland stanley
+492,0,3,Mr. Gerious Yousseff,male,26.0,0,0,14.4583,16.4583,43.3749,mr. gerious yousseff
+493,1,1,Miss. Elizabeth Mussey Eustis,female,54.0,1,0,78.2667,80.2667,78.2667,miss. elizabeth mussey eustis
+494,0,3,Mr. Frederick William Shellard,male,55.0,0,0,15.1,17.1,45.3,mr. frederick william shellard
+495,0,1,Mrs. Hudson J C (Bessie Waldo Daniels) Allison,female,25.0,1,2,151.55,153.55,151.55,mrs. hudson j c (bessie waldo daniels) allison
+496,0,3,Mr. Olof Svensson,male,24.0,0,0,7.7958,9.7958,23.3874,mr. olof svensson
+497,0,3,Mr. Petar Calic,male,17.0,0,0,8.6625,10.6625,25.987499999999997,mr. petar calic
+498,0,3,Miss. Mary Canavan,female,21.0,0,0,7.75,9.75,23.25,miss. mary canavan
+499,0,3,Miss. Bridget Mary O'Sullivan,female,21.0,0,0,7.6292,9.6292,22.8876,miss. bridget mary o'sullivan
+500,0,3,Miss. Kristina Sofia Laitinen,female,37.0,0,0,9.5875,11.5875,28.762500000000003,miss. kristina sofia laitinen
+501,1,1,Miss. Roberta Maioni,female,16.0,0,0,86.5,88.5,86.5,miss. roberta maioni
+502,0,1,Mr. Victor de Satode Penasco y Castellana,male,18.0,1,0,108.9,110.9,108.9,mr. victor de satode penasco y castellana
+503,1,2,Mrs. Frederick Charles (Jane Richards) Quick,female,33.0,0,2,26.0,28.0,52.0,mrs. frederick charles (jane richards) quick
+504,1,1,Mr. George Bradley,male,37.0,0,0,26.55,28.55,26.55,mr. george bradley
+505,0,3,Mr. Henry Margido Olsen,male,28.0,0,0,22.525,24.525,67.57499999999999,mr. henry margido olsen
+506,1,3,Mr. Fang Lang,male,26.0,0,0,56.4958,58.4958,169.4874,mr. fang lang
+507,1,3,Mr. Eugene Patrick Daly,male,29.0,0,0,7.75,9.75,23.25,mr. eugene patrick daly
+508,0,3,Mr. James Webber,male,66.0,0,0,8.05,10.05,24.150000000000002,mr. james webber
+509,1,1,Mr. James Robert McGough,male,36.0,0,0,26.2875,28.2875,26.2875,mr. james robert mcgough
+510,1,1,Mrs. Martin (Elizabeth L. Barrett) Rothschild,female,54.0,1,0,59.4,61.4,59.4,mrs. martin (elizabeth l. barrett) rothschild
+511,0,3,Mr. Satio Coleff,male,24.0,0,0,7.4958,9.4958,22.4874,mr. satio coleff
+512,0,1,Mr. William Anderson Walker,male,47.0,0,0,34.0208,36.0208,34.0208,mr. william anderson walker
+513,1,2,Mrs. (Amelia Milley) Lemore,female,34.0,0,0,10.5,12.5,21.0,mrs. (amelia milley) lemore
+514,0,3,Mr. Patrick Ryan,male,30.0,0,0,24.15,26.15,72.44999999999999,mr. patrick ryan
+515,1,2,Mrs. William A (Florence Agnes Hughes) Angle,female,36.0,1,0,26.0,28.0,52.0,mrs. william a (florence agnes hughes) angle
+516,0,3,Mr. Stefo Pavlovic,male,32.0,0,0,7.8958,9.895800000000001,23.6874,mr. stefo pavlovic
+517,1,1,Miss. Anne Perreault,female,30.0,0,0,93.5,95.5,93.5,miss. anne perreault
+518,0,3,Mr. Janko Vovk,male,22.0,0,0,7.8958,9.895800000000001,23.6874,mr. janko vovk
+519,0,3,Mr. Sarkis Lahoud,male,35.0,0,0,7.225,9.225,21.674999999999997,mr. sarkis lahoud
+520,1,1,Mrs. Louis Albert (Ida Sophia Fischer) Hippach,female,44.0,0,1,57.9792,59.9792,57.9792,mrs. louis albert (ida sophia fischer) hippach
+521,0,3,Mr. Fared Kassem,male,18.0,0,0,7.2292,9.229199999999999,21.6876,mr. fared kassem
+522,0,3,Mr. James Farrell,male,40.5,0,0,7.75,9.75,23.25,mr. james farrell
+523,1,2,Miss. Lucy Ridsdale,female,50.0,0,0,10.5,12.5,21.0,miss. lucy ridsdale
+524,0,1,Mr. John Farthing,male,49.0,0,0,221.7792,223.7792,221.7792,mr. john farthing
+525,0,3,Mr. Johan Werner Salonen,male,39.0,0,0,7.925,9.925,23.775,mr. johan werner salonen
+526,0,2,Mr. Richard George Hocking,male,23.0,2,1,11.5,13.5,23.0,mr. richard george hocking
+527,1,2,Miss. Phyllis May Quick,female,2.0,1,1,26.0,28.0,52.0,miss. phyllis may quick
+528,0,3,Mr. Nakli Toufik,male,17.0,0,0,7.2292,9.229199999999999,21.6876,mr. nakli toufik
+529,0,3,Mr. Joseph Jr Elias,male,17.0,1,1,7.2292,9.229199999999999,21.6876,mr. joseph jr elias
+530,1,3,Mrs. Catherine (Catherine Rizk) Peter,female,24.0,0,2,22.3583,24.3583,67.0749,mrs. catherine (catherine rizk) peter
+531,0,3,Miss. Marija Cacic,female,30.0,0,0,8.6625,10.6625,25.987499999999997,miss. marija cacic
+532,1,2,Miss. Eva Miriam Hart,female,7.0,0,2,26.25,28.25,52.5,miss. eva miriam hart
+533,0,1,Major. Archibald Willingham Butt,male,45.0,0,0,26.55,28.55,26.55,major. archibald willingham butt
+534,1,1,Miss. Bertha LeRoy,female,30.0,0,0,106.425,108.425,106.425,miss. bertha leroy
+535,0,3,Mr. Samuel Beard Risien,male,69.0,0,0,14.5,16.5,43.5,mr. samuel beard risien
+536,1,1,Miss. Hedwig Margaritha Frolicher,female,22.0,0,2,49.5,51.5,49.5,miss. hedwig margaritha frolicher
+537,1,1,Miss. Harriet R Crosby,female,36.0,0,2,71.0,73.0,71.0,miss. harriet r crosby
+538,0,3,Miss. Ingeborg Constanzia Andersson,female,9.0,4,2,31.275,33.275,93.82499999999999,miss. ingeborg constanzia andersson
+539,0,3,Miss. Sigrid Elisabeth Andersson,female,11.0,4,2,31.275,33.275,93.82499999999999,miss. sigrid elisabeth andersson
+540,1,2,Mr. Edward Beane,male,32.0,1,0,26.0,28.0,52.0,mr. edward beane
+541,0,1,Mr. Walter Donald Douglas,male,50.0,1,0,106.425,108.425,106.425,mr. walter donald douglas
+542,0,1,Mr. Arthur Ernest Nicholson,male,64.0,0,0,26.0,28.0,26.0,mr. arthur ernest nicholson
+543,1,2,Mrs. Edward (Ethel Clarke) Beane,female,19.0,1,0,26.0,28.0,52.0,mrs. edward (ethel clarke) beane
+544,1,2,Mr. Julian Padro y Manent,male,27.0,0,0,13.8625,15.8625,27.725,mr. julian padro y manent
+545,0,3,Mr. Frank John Goldsmith,male,33.0,1,1,20.525,22.525,61.574999999999996,mr. frank john goldsmith
+546,1,2,Master. John Morgan Jr Davies,male,8.0,1,1,36.75,38.75,73.5,master. john morgan jr davies
+547,1,1,Mr. John Borland Jr Thayer,male,17.0,0,2,110.8833,112.8833,110.8833,mr. john borland jr thayer
+548,0,2,Mr. Percival James R Sharp,male,27.0,0,0,26.0,28.0,52.0,mr. percival james r sharp
+549,0,3,Mr. Timothy O'Brien,male,21.0,0,0,7.8292,9.8292,23.4876,mr. timothy o'brien
+550,1,3,Mr. Fahim Leeni,male,22.0,0,0,7.225,9.225,21.674999999999997,mr. fahim leeni
+551,1,3,Miss. Velin Ohman,female,22.0,0,0,7.775,9.775,23.325000000000003,miss. velin ohman
+552,0,1,Mr. George Wright,male,62.0,0,0,26.55,28.55,26.55,mr. george wright
+553,1,1,Lady. (Lucille Christiana Sutherland)Duff Gordon,female,48.0,1,0,39.6,41.6,39.6,lady. (lucille christiana sutherland)duff gordon
+554,0,1,Mr. Victor Robbins,male,45.0,0,0,227.525,229.525,227.525,mr. victor robbins
+555,1,1,Mrs. Emil (Tillie Mandelbaum) Taussig,female,39.0,1,1,79.65,81.65,79.65,mrs. emil (tillie mandelbaum) taussig
+556,1,3,Mrs. Guillaume Joseph (Emma) de Messemaeker,female,36.0,1,0,17.4,19.4,52.199999999999996,mrs. guillaume joseph (emma) de messemaeker
+557,0,3,Mr. Thomas Rowan Morrow,male,30.0,0,0,7.75,9.75,23.25,mr. thomas rowan morrow
+558,0,3,Mr. Husein Sivic,male,40.0,0,0,7.8958,9.895800000000001,23.6874,mr. husein sivic
+559,0,2,Mr. Robert Douglas Norman,male,28.0,0,0,13.5,15.5,27.0,mr. robert douglas norman
+560,0,3,Mr. John Simmons,male,40.0,0,0,8.05,10.05,24.150000000000002,mr. john simmons
+561,0,3,Miss. (Marion Ogden) Meanwell,female,62.0,0,0,8.05,10.05,24.150000000000002,miss. (marion ogden) meanwell
+562,0,3,Mr. Alfred J Davies,male,24.0,2,0,24.15,26.15,72.44999999999999,mr. alfred j davies
+563,0,3,Mr. Ilia Stoytcheff,male,19.0,0,0,7.8958,9.895800000000001,23.6874,mr. ilia stoytcheff
+564,0,3,Mrs. Nils (Alma Cornelia Berglund) Palsson,female,29.0,0,4,21.075,23.075,63.224999999999994,mrs. nils (alma cornelia berglund) palsson
+565,0,3,Mr. Tannous Doharr,male,28.0,0,0,7.2292,9.229199999999999,21.6876,mr. tannous doharr
+566,1,3,Mr. Carl Jonsson,male,32.0,0,0,7.8542,9.854199999999999,23.5626,mr. carl jonsson
+567,1,2,Mr. George Harris,male,62.0,0,0,10.5,12.5,21.0,mr. george harris
+568,1,1,Mrs. Edward Dale (Charlotte Lamson) Appleton,female,53.0,2,0,51.4792,53.4792,51.4792,mrs. edward dale (charlotte lamson) appleton
+569,1,1,Mr. John Irwin Flynn,male,36.0,0,0,26.3875,28.3875,26.3875,mr. john irwin flynn
+570,1,3,Miss. Mary Kelly,female,22.0,0,0,7.75,9.75,23.25,miss. mary kelly
+571,0,3,Mr. Alfred George John Rush,male,16.0,0,0,8.05,10.05,24.150000000000002,mr. alfred george john rush
+572,0,3,Mr. George Patchett,male,19.0,0,0,14.5,16.5,43.5,mr. george patchett
+573,1,2,Miss. Ethel Garside,female,34.0,0,0,13.0,15.0,26.0,miss. ethel garside
+574,1,1,Mrs. William Baird (Alice Munger) Silvey,female,39.0,1,0,55.9,57.9,55.9,mrs. william baird (alice munger) silvey
+575,0,3,Mrs. Joseph (Maria Elias) Caram,female,18.0,1,0,14.4583,16.4583,43.3749,mrs. joseph (maria elias) caram
+576,1,3,Mr. Eiriik Jussila,male,32.0,0,0,7.925,9.925,23.775,mr. eiriik jussila
+577,1,2,Miss. Julie Rachel Christy,female,25.0,1,1,30.0,32.0,60.0,miss. julie rachel christy
+578,1,1,Mrs. John Borland (Marian Longstreth Morris) Thayer,female,39.0,1,1,110.8833,112.8833,110.8833,mrs. john borland (marian longstreth morris) thayer
+579,0,2,Mr. William James Downton,male,54.0,0,0,26.0,28.0,52.0,mr. william james downton
+580,0,1,Mr. John Hugo Ross,male,36.0,0,0,40.125,42.125,40.125,mr. john hugo ross
+581,0,3,Mr. Uscher Paulner,male,16.0,0,0,8.7125,10.7125,26.137500000000003,mr. uscher paulner
+582,1,1,Miss. Ruth Taussig,female,18.0,0,2,79.65,81.65,79.65,miss. ruth taussig
+583,0,2,Mr. John Denzil Jarvis,male,47.0,0,0,15.0,17.0,30.0,mr. john denzil jarvis
+584,1,1,Mr. Maxmillian Frolicher-Stehli,male,60.0,1,1,79.2,81.2,79.2,mr. maxmillian frolicher-stehli
+585,0,3,Mr. Eliezer Gilinski,male,22.0,0,0,8.05,10.05,24.150000000000002,mr. eliezer gilinski
+586,0,3,Mr. Joseph Murdlin,male,22.0,0,0,8.05,10.05,24.150000000000002,mr. joseph murdlin
+587,0,3,Mr. Matti Rintamaki,male,35.0,0,0,7.125,9.125,21.375,mr. matti rintamaki
+588,1,1,Mrs. Walter Bertram (Martha Eustis) Stephenson,female,52.0,1,0,78.2667,80.2667,78.2667,mrs. walter bertram (martha eustis) stephenson
+589,0,3,Mr. William James Elsbury,male,47.0,0,0,7.25,9.25,21.75,mr. william james elsbury
+590,0,3,Miss. Mary Bourke,female,40.0,0,2,7.75,9.75,23.25,miss. mary bourke
+591,0,2,Mr. John Henry Chapman,male,37.0,1,0,26.0,28.0,52.0,mr. john henry chapman
+592,0,3,Mr. Jean Baptiste Van Impe,male,36.0,1,1,24.15,26.15,72.44999999999999,mr. jean baptiste van impe
+593,1,2,Miss. Jessie Wills Leitch,female,31.0,0,0,33.0,35.0,66.0,miss. jessie wills leitch
+594,0,3,Mr. Alfred Johnson,male,49.0,0,0,0.0,2.0,0.0,mr. alfred johnson
+595,0,3,Mr. Hanna Boulos,male,18.0,0,0,7.225,9.225,21.674999999999997,mr. hanna boulos
+596,1,1,Sir. Cosmo Edmund Duff Gordon,male,49.0,1,0,56.9292,58.9292,56.9292,sir. cosmo edmund duff gordon
+597,1,2,Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn,female,24.0,2,1,27.0,29.0,54.0,mrs. sidney samuel (amy frances christy) jacobsohn
+598,0,3,Mr. Petco Slabenoff,male,42.0,0,0,7.8958,9.895800000000001,23.6874,mr. petco slabenoff
+599,0,1,Mr. Charles H Harrington,male,37.0,0,0,42.4,44.4,42.4,mr. charles h harrington
+600,0,3,Mr. Ernst William Torber,male,44.0,0,0,8.05,10.05,24.150000000000002,mr. ernst william torber
+601,1,1,Mr. Harry Homer,male,35.0,0,0,26.55,28.55,26.55,mr. harry homer
+602,0,3,Mr. Edvard Bengtsson Lindell,male,36.0,1,0,15.55,17.55,46.650000000000006,mr. edvard bengtsson lindell
+603,0,3,Mr. Milan Karaic,male,30.0,0,0,7.8958,9.895800000000001,23.6874,mr. milan karaic
+604,1,1,Mr. Robert Williams Daniel,male,27.0,0,0,30.5,32.5,30.5,mr. robert williams daniel
+605,1,2,Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche,female,22.0,1,2,41.5792,43.5792,83.1584,mrs. joseph (juliette marie louise lafargue) laroche
+606,1,1,Miss. Elizabeth W Shutes,female,40.0,0,0,153.4625,155.4625,153.4625,miss. elizabeth w shutes
+607,0,3,Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson,female,39.0,1,5,31.275,33.275,93.82499999999999,mrs. anders johan (alfrida konstantia brogren) andersson
+608,0,3,Mr. Jose Neto Jardin,male,21.0,0,0,7.05,9.05,21.15,mr. jose neto jardin
+609,1,3,Miss. Margaret Jane Murphy,female,18.0,1,0,15.5,17.5,46.5,miss. margaret jane murphy
+610,0,3,Mr. John Horgan,male,22.0,0,0,7.75,9.75,23.25,mr. john horgan
+611,0,3,Mr. William Alfred Brocklebank,male,35.0,0,0,8.05,10.05,24.150000000000002,mr. william alfred brocklebank
+612,1,2,Miss. Alice Herman,female,24.0,1,2,65.0,67.0,130.0,miss. alice herman
+613,0,3,Mr. Ernst Gilbert Danbom,male,34.0,1,1,14.4,16.4,43.2,mr. ernst gilbert danbom
+614,0,3,Mrs. William Arthur (Cordelia K Stanlick) Lobb,female,26.0,1,0,16.1,18.1,48.300000000000004,mrs. william arthur (cordelia k stanlick) lobb
+615,1,2,Miss. Marion Louise Becker,female,4.0,2,1,39.0,41.0,78.0,miss. marion louise becker
+616,0,2,Mr. Lawrence Gavey,male,26.0,0,0,10.5,12.5,21.0,mr. lawrence gavey
+617,0,3,Mr. Antoni Yasbeck,male,27.0,1,0,14.4542,16.4542,43.3626,mr. antoni yasbeck
+618,1,1,Mr. Edwin Nelson Jr Kimball,male,42.0,1,0,52.5542,54.5542,52.5542,mr. edwin nelson jr kimball
+619,1,3,Mr. Sahid Nakid,male,20.0,1,1,15.7417,17.7417,47.2251,mr. sahid nakid
+620,0,3,Mr. Henry Damsgaard Hansen,male,21.0,0,0,7.8542,9.854199999999999,23.5626,mr. henry damsgaard hansen
+621,0,3,Mr. David John Bowen,male,21.0,0,0,16.1,18.1,48.300000000000004,mr. david john bowen
+622,0,1,Mr. Frederick Sutton,male,61.0,0,0,32.3208,34.3208,32.3208,mr. frederick sutton
+623,0,2,Rev. Charles Leonard Kirkland,male,57.0,0,0,12.35,14.35,24.7,rev. charles leonard kirkland
+624,1,1,Miss. Gretchen Fiske Longley,female,21.0,0,0,77.9583,79.9583,77.9583,miss. gretchen fiske longley
+625,0,3,Mr. Guentcho Bostandyeff,male,26.0,0,0,7.8958,9.895800000000001,23.6874,mr. guentcho bostandyeff
+626,0,3,Mr. Patrick D O'Connell,male,18.0,0,0,7.7333,9.7333,23.1999,mr. patrick d o'connell
+627,1,1,Mr. Algernon Henry Wilson Barkworth,male,80.0,0,0,30.0,32.0,30.0,mr. algernon henry wilson barkworth
+628,0,3,Mr. Johan Svensson Lundahl,male,51.0,0,0,7.0542,9.0542,21.162599999999998,mr. johan svensson lundahl
+629,1,1,Dr. Max Stahelin-Maeglin,male,32.0,0,0,30.5,32.5,30.5,dr. max stahelin-maeglin
+630,0,1,Mr. William Henry Marsh Parr,male,30.0,0,0,0.0,2.0,0.0,mr. william henry marsh parr
+631,0,3,Miss. Mabel Skoog,female,9.0,3,2,27.9,29.9,83.69999999999999,miss. mabel skoog
+632,1,2,Miss. Mary Davis,female,28.0,0,0,13.0,15.0,26.0,miss. mary davis
+633,0,3,Mr. Antti Gustaf Leinonen,male,32.0,0,0,7.925,9.925,23.775,mr. antti gustaf leinonen
+634,0,2,Mr. Harvey Collyer,male,31.0,1,1,26.25,28.25,52.5,mr. harvey collyer
+635,0,3,Mrs. Juha (Maria Emilia Ojala) Panula,female,41.0,0,5,39.6875,41.6875,119.0625,mrs. juha (maria emilia ojala) panula
+636,0,3,Mr. Percival Thorneycroft,male,37.0,1,0,16.1,18.1,48.300000000000004,mr. percival thorneycroft
+637,0,3,Mr. Hans Peder Jensen,male,20.0,0,0,7.8542,9.854199999999999,23.5626,mr. hans peder jensen
+638,1,1,Mlle. Emma Sagesser,female,24.0,0,0,69.3,71.3,69.3,mlle. emma sagesser
+639,0,3,Miss. Margit Elizabeth Skoog,female,2.0,3,2,27.9,29.9,83.69999999999999,miss. margit elizabeth skoog
+640,1,3,Mr. Choong Foo,male,32.0,0,0,56.4958,58.4958,169.4874,mr. choong foo
+641,1,3,Miss. Eugenie Baclini,female,0.75,2,1,19.2583,21.2583,57.774899999999995,miss. eugenie baclini
+642,1,1,Mr. Henry Sleeper Harper,male,48.0,1,0,76.7292,78.7292,76.7292,mr. henry sleeper harper
+643,0,3,Mr. Liudevit Cor,male,19.0,0,0,7.8958,9.895800000000001,23.6874,mr. liudevit cor
+644,1,1,Col. Oberst Alfons Simonius-Blumer,male,56.0,0,0,35.5,37.5,35.5,col. oberst alfons simonius-blumer
+645,0,3,Mr. Edward Willey,male,21.0,0,0,7.55,9.55,22.65,mr. edward willey
+646,1,3,Miss. Amy Zillah Elsie Stanley,female,23.0,0,0,7.55,9.55,22.65,miss. amy zillah elsie stanley
+647,0,3,Mr. Mito Mitkoff,male,23.0,0,0,7.8958,9.895800000000001,23.6874,mr. mito mitkoff
+648,1,2,Miss. Elsie Doling,female,18.0,0,1,23.0,25.0,46.0,miss. elsie doling
+649,0,3,Mr. Johannes Halvorsen Kalvik,male,21.0,0,0,8.4333,10.4333,25.299899999999997,mr. johannes halvorsen kalvik
+650,1,3,Miss. Hanora O'Leary,female,16.0,0,0,7.8292,9.8292,23.4876,miss. hanora o'leary
+651,0,3,Miss. Hanora Hegarty,female,18.0,0,0,6.75,8.75,20.25,miss. hanora hegarty
+652,0,2,Mr. Leonard Mark Hickman,male,24.0,2,0,73.5,75.5,147.0,mr. leonard mark hickman
+653,0,3,Mr. Alexander Radeff,male,27.0,0,0,7.8958,9.895800000000001,23.6874,mr. alexander radeff
+654,0,3,Mrs. John (Catherine) Bourke,female,32.0,1,1,15.5,17.5,46.5,mrs. john (catherine) bourke
+655,0,2,Mr. George Floyd Eitemiller,male,23.0,0,0,13.0,15.0,26.0,mr. george floyd eitemiller
+656,0,1,Mr. Arthur Webster Newell,male,58.0,0,2,113.275,115.275,113.275,mr. arthur webster newell
+657,1,1,Dr. Henry William Frauenthal,male,50.0,2,0,133.65,135.65,133.65,dr. henry william frauenthal
+658,0,3,Mr. Mohamed Badt,male,40.0,0,0,7.225,9.225,21.674999999999997,mr. mohamed badt
+659,0,1,Mr. Edward Pomeroy Colley,male,47.0,0,0,25.5875,27.5875,25.5875,mr. edward pomeroy colley
+660,0,3,Mr. Peju Coleff,male,36.0,0,0,7.4958,9.4958,22.4874,mr. peju coleff
+661,1,3,Mr. Eino William Lindqvist,male,20.0,1,0,7.925,9.925,23.775,mr. eino william lindqvist
+662,0,2,Mr. Lewis Hickman,male,32.0,2,0,73.5,75.5,147.0,mr. lewis hickman
+663,0,2,Mr. Reginald Fenton Butler,male,25.0,0,0,13.0,15.0,26.0,mr. reginald fenton butler
+664,0,3,Mr. Knud Paust Rommetvedt,male,49.0,0,0,7.775,9.775,23.325000000000003,mr. knud paust rommetvedt
+665,0,3,Mr. Jacob Cook,male,43.0,0,0,8.05,10.05,24.150000000000002,mr. jacob cook
+666,1,1,Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor,female,48.0,1,0,52.0,54.0,52.0,mrs. elmer zebley (juliet cummins wright) taylor
+667,1,2,Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown,female,40.0,1,1,39.0,41.0,78.0,mrs. thomas william solomon (elizabeth catherine ford) brown
+668,0,1,Mr. Thornton Davidson,male,31.0,1,0,52.0,54.0,52.0,mr. thornton davidson
+669,0,2,Mr. Henry Michael Mitchell,male,70.0,0,0,10.5,12.5,21.0,mr. henry michael mitchell
+670,1,2,Mr. Charles Wilhelms,male,31.0,0,0,13.0,15.0,26.0,mr. charles wilhelms
+671,0,2,Mr. Ennis Hastings Watson,male,19.0,0,0,0.0,2.0,0.0,mr. ennis hastings watson
+672,0,3,Mr. Gustaf Hjalmar Edvardsson,male,18.0,0,0,7.775,9.775,23.325000000000003,mr. gustaf hjalmar edvardsson
+673,0,3,Mr. Frederick Charles Sawyer,male,24.5,0,0,8.05,10.05,24.150000000000002,mr. frederick charles sawyer
+674,1,3,Miss. Anna Sofia Turja,female,18.0,0,0,9.8417,11.8417,29.5251,miss. anna sofia turja
+675,0,3,Mrs. Frederick (Augusta Tyler) Goodwin,female,43.0,1,6,46.9,48.9,140.7,mrs. frederick (augusta tyler) goodwin
+676,1,1,Mr. Thomas Drake Martinez Cardeza,male,36.0,0,1,512.3292,514.3292,512.3292,mr. thomas drake martinez cardeza
+677,0,3,Miss. Katie Peters,female,28.0,0,0,8.1375,10.1375,24.412499999999998,miss. katie peters
+678,1,1,Mr. Hammad Hassab,male,27.0,0,0,76.7292,78.7292,76.7292,mr. hammad hassab
+679,0,3,Mr. Thor Anderson Olsvigen,male,20.0,0,0,9.225,11.225,27.674999999999997,mr. thor anderson olsvigen
+680,0,3,Mr. Charles Edward Goodwin,male,14.0,5,2,46.9,48.9,140.7,mr. charles edward goodwin
+681,0,2,Mr. Thomas William Solomon Brown,male,60.0,1,1,39.0,41.0,78.0,mr. thomas william solomon brown
+682,0,2,Mr. Joseph Philippe Lemercier Laroche,male,25.0,1,2,41.5792,43.5792,83.1584,mr. joseph philippe lemercier laroche
+683,0,3,Mr. Jaako Arnold Panula,male,14.0,4,1,39.6875,41.6875,119.0625,mr. jaako arnold panula
+684,0,3,Mr. Branko Dakic,male,19.0,0,0,10.1708,12.1708,30.5124,mr. branko dakic
+685,0,3,Mr. Eberhard Thelander Fischer,male,18.0,0,0,7.7958,9.7958,23.3874,mr. eberhard thelander fischer
+686,1,1,Miss. Georgette Alexandra Madill,female,15.0,0,1,211.3375,213.3375,211.3375,miss. georgette alexandra madill
+687,1,1,Mr. Albert Adrian Dick,male,31.0,1,0,57.0,59.0,57.0,mr. albert adrian dick
+688,1,3,Miss. Manca Karun,female,4.0,0,1,13.4167,15.4167,40.2501,miss. manca karun
+689,1,3,Mr. Ali Lam,male,37.0,0,0,56.4958,58.4958,169.4874,mr. ali lam
+690,0,3,Mr. Khalil Saad,male,25.0,0,0,7.225,9.225,21.674999999999997,mr. khalil saad
+691,0,1,Col. John Weir,male,60.0,0,0,26.55,28.55,26.55,col. john weir
+692,0,2,Mr. Charles Henry Chapman,male,52.0,0,0,13.5,15.5,27.0,mr. charles henry chapman
+693,0,3,Mr. James Kelly,male,44.0,0,0,8.05,10.05,24.150000000000002,mr. james kelly
+694,1,3,Miss. Katherine Mullens,female,19.0,0,0,7.7333,9.7333,23.1999,miss. katherine mullens
+695,0,1,Mr. John Borland Thayer,male,49.0,1,1,110.8833,112.8833,110.8833,mr. john borland thayer
+696,0,3,Mr. Adolf Mathias Nicolai Olsen Humblen,male,42.0,0,0,7.65,9.65,22.950000000000003,mr. adolf mathias nicolai olsen humblen
+697,1,1,Mrs. John Jacob (Madeleine Talmadge Force) Astor,female,18.0,1,0,227.525,229.525,227.525,mrs. john jacob (madeleine talmadge force) astor
+698,1,1,Mr. Spencer Victor Silverthorne,male,35.0,0,0,26.2875,28.2875,26.2875,mr. spencer victor silverthorne
+699,0,3,Miss. Saiide Barbara,female,18.0,0,1,14.4542,16.4542,43.3626,miss. saiide barbara
+700,0,3,Mr. Martin Gallagher,male,25.0,0,0,7.7417,9.7417,23.225099999999998,mr. martin gallagher
+701,0,3,Mr. Henrik Juul Hansen,male,26.0,1,0,7.8542,9.854199999999999,23.5626,mr. henrik juul hansen
+702,0,2,Mr. Henry Samuel Morley,male,39.0,0,0,26.0,28.0,52.0,mr. henry samuel morley
+703,1,2,Mrs. Florence Kelly,female,45.0,0,0,13.5,15.5,27.0,mrs. florence kelly
+704,1,1,Mr. Edward Pennington Calderhead,male,42.0,0,0,26.2875,28.2875,26.2875,mr. edward pennington calderhead
+705,1,1,Miss. Alice Cleaver,female,22.0,0,0,151.55,153.55,151.55,miss. alice cleaver
+706,1,3,Master. Halim Gonios Moubarek,male,4.0,1,1,15.2458,17.2458,45.737399999999994,master. halim gonios moubarek
+707,1,1,Mlle. Berthe Antonine Mayne,female,24.0,0,0,49.5042,51.5042,49.5042,mlle. berthe antonine mayne
+708,0,1,Mr. Herman Klaber,male,41.0,0,0,26.55,28.55,26.55,mr. herman klaber
+709,1,1,Mr. Elmer Zebley Taylor,male,48.0,1,0,52.0,54.0,52.0,mr. elmer zebley taylor
+710,0,3,Mr. August Viktor Larsson,male,29.0,0,0,9.4833,11.4833,28.4499,mr. august viktor larsson
+711,0,2,Mr. Samuel Greenberg,male,52.0,0,0,13.0,15.0,26.0,mr. samuel greenberg
+712,0,3,Mr. Peter Andreas Lauritz Andersen Soholt,male,19.0,0,0,7.65,9.65,22.950000000000003,mr. peter andreas lauritz andersen soholt
+713,1,1,Miss. Caroline Louise Endres,female,38.0,0,0,227.525,229.525,227.525,miss. caroline louise endres
+714,1,2,Miss. Edwina Celia Troutt,female,27.0,0,0,10.5,12.5,21.0,miss. edwina celia troutt
+715,0,3,Mr. Malkolm Joackim Johnson,male,33.0,0,0,7.775,9.775,23.325000000000003,mr. malkolm joackim johnson
+716,1,2,Miss. Annie Jessie Harper,female,6.0,0,1,33.0,35.0,66.0,miss. annie jessie harper
+717,0,3,Mr. Svend Lauritz Jensen,male,17.0,1,0,7.0542,9.0542,21.162599999999998,mr. svend lauritz jensen
+718,0,2,Mr. William Henry Gillespie,male,34.0,0,0,13.0,15.0,26.0,mr. william henry gillespie
+719,0,2,Mr. Henry Price Hodges,male,50.0,0,0,13.0,15.0,26.0,mr. henry price hodges
+720,1,1,Mr. Norman Campbell Chambers,male,27.0,1,0,53.1,55.1,53.1,mr. norman campbell chambers
+721,0,3,Mr. Luka Oreskovic,male,20.0,0,0,8.6625,10.6625,25.987499999999997,mr. luka oreskovic
+722,1,2,Mrs. Peter Henry (Lillian Jefferys) Renouf,female,30.0,3,0,21.0,23.0,42.0,mrs. peter henry (lillian jefferys) renouf
+723,1,3,Miss. Margareth Mannion,female,28.0,0,0,7.7375,9.7375,23.2125,miss. margareth mannion
+724,0,2,Mr. Kurt Arnold Gottfrid Bryhl,male,25.0,1,0,26.0,28.0,52.0,mr. kurt arnold gottfrid bryhl
+725,0,3,Miss. Pieta Sofia Ilmakangas,female,25.0,1,0,7.925,9.925,23.775,miss. pieta sofia ilmakangas
+726,1,1,Miss. Elisabeth Walton Allen,female,29.0,0,0,211.3375,213.3375,211.3375,miss. elisabeth walton allen
+727,0,3,Mr. Houssein G N Hassan,male,11.0,0,0,18.7875,20.7875,56.362500000000004,mr. houssein g n hassan
+728,0,2,Mr. Robert J Knight,male,41.0,0,0,0.0,2.0,0.0,mr. robert j knight
+729,0,2,Mr. William John Berriman,male,23.0,0,0,13.0,15.0,26.0,mr. william john berriman
+730,0,2,Mr. Moses Aaron Troupiansky,male,23.0,0,0,13.0,15.0,26.0,mr. moses aaron troupiansky
+731,0,3,Mr. Leslie Williams,male,28.5,0,0,16.1,18.1,48.300000000000004,mr. leslie williams
+732,0,3,Mrs. Edward (Margaret Ann Watson) Ford,female,48.0,1,3,34.375,36.375,103.125,mrs. edward (margaret ann watson) ford
+733,1,1,Mr. Gustave J Lesurer,male,35.0,0,0,512.3292,514.3292,512.3292,mr. gustave j lesurer
+734,0,3,Mr. Kanio Ivanoff,male,20.0,0,0,7.8958,9.895800000000001,23.6874,mr. kanio ivanoff
+735,0,3,Mr. Minko Nankoff,male,32.0,0,0,7.8958,9.895800000000001,23.6874,mr. minko nankoff
+736,1,1,Mr. Walter James Hawksford,male,45.0,0,0,30.0,32.0,30.0,mr. walter james hawksford
+737,0,1,Mr. Tyrell William Cavendish,male,36.0,1,0,78.85,80.85,78.85,mr. tyrell william cavendish
+738,1,1,Miss. Susan Parker Ryerson,female,21.0,2,2,262.375,264.375,262.375,miss. susan parker ryerson
+739,0,3,Mr. Neal McNamee,male,24.0,1,0,16.1,18.1,48.300000000000004,mr. neal mcnamee
+740,1,3,Mr. Juho Stranden,male,31.0,0,0,7.925,9.925,23.775,mr. juho stranden
+741,0,1,Capt. Edward Gifford Crosby,male,70.0,1,1,71.0,73.0,71.0,capt. edward gifford crosby
+742,0,3,Mr. Rossmore Edward Abbott,male,16.0,1,1,20.25,22.25,60.75,mr. rossmore edward abbott
+743,1,2,Miss. Anna Sinkkonen,female,30.0,0,0,13.0,15.0,26.0,miss. anna sinkkonen
+744,0,1,Mr. Daniel Warner Marvin,male,19.0,1,0,53.1,55.1,53.1,mr. daniel warner marvin
+745,0,3,Mr. Michael Connaghton,male,31.0,0,0,7.75,9.75,23.25,mr. michael connaghton
+746,1,2,Miss. Joan Wells,female,4.0,1,1,23.0,25.0,46.0,miss. joan wells
+747,1,3,Master. Meier Moor,male,6.0,0,1,12.475,14.475,37.425,master. meier moor
+748,0,3,Mr. Johannes Joseph Vande Velde,male,33.0,0,0,9.5,11.5,28.5,mr. johannes joseph vande velde
+749,0,3,Mr. Lalio Jonkoff,male,23.0,0,0,7.8958,9.895800000000001,23.6874,mr. lalio jonkoff
+750,1,2,Mrs. Samuel (Jane Laver) Herman,female,48.0,1,2,65.0,67.0,130.0,mrs. samuel (jane laver) herman
+751,1,2,Master. Viljo Hamalainen,male,0.67,1,1,14.5,16.5,29.0,master. viljo hamalainen
+752,0,3,Mr. August Sigfrid Carlsson,male,28.0,0,0,7.7958,9.7958,23.3874,mr. august sigfrid carlsson
+753,0,2,Mr. Percy Andrew Bailey,male,18.0,0,0,11.5,13.5,23.0,mr. percy andrew bailey
+754,0,3,Mr. Thomas Leonard Theobald,male,34.0,0,0,8.05,10.05,24.150000000000002,mr. thomas leonard theobald
+755,1,1,the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes,female,33.0,0,0,86.5,88.5,86.5,the countess. of (lucy noel martha dyer-edwards) rothes
+756,0,3,Mr. John Garfirth,male,23.0,0,0,14.5,16.5,43.5,mr. john garfirth
+757,0,3,Mr. Iisakki Antino Aijo Nirva,male,41.0,0,0,7.125,9.125,21.375,mr. iisakki antino aijo nirva
+758,1,3,Mr. Hanna Assi Barah,male,20.0,0,0,7.2292,9.229199999999999,21.6876,mr. hanna assi barah
+759,1,1,Mrs. William Ernest (Lucile Polk) Carter,female,36.0,1,2,120.0,122.0,120.0,mrs. william ernest (lucile polk) carter
+760,0,3,Mr. Hans Linus Eklund,male,16.0,0,0,7.775,9.775,23.325000000000003,mr. hans linus eklund
+761,1,1,Mrs. John C (Anna Andrews) Hogeboom,female,51.0,1,0,77.9583,79.9583,77.9583,mrs. john c (anna andrews) hogeboom
+762,0,1,Dr. Arthur Jackson Brewe,male,46.0,0,0,39.6,41.6,39.6,dr. arthur jackson brewe
+763,0,3,Miss. Mary Mangan,female,30.5,0,0,7.75,9.75,23.25,miss. mary mangan
+764,0,3,Mr. Daniel J Moran,male,28.0,1,0,24.15,26.15,72.44999999999999,mr. daniel j moran
+765,0,3,Mr. Daniel Danielsen Gronnestad,male,32.0,0,0,8.3625,10.3625,25.087500000000002,mr. daniel danielsen gronnestad
+766,0,3,Mr. Rene Aime Lievens,male,24.0,0,0,9.5,11.5,28.5,mr. rene aime lievens
+767,0,3,Mr. Niels Peder Jensen,male,48.0,0,0,7.8542,9.854199999999999,23.5626,mr. niels peder jensen
+768,0,2,Mrs. (Mary) Mack,female,57.0,0,0,10.5,12.5,21.0,mrs. (mary) mack
+769,0,3,Mr. Dibo Elias,male,29.0,0,0,7.225,9.225,21.674999999999997,mr. dibo elias
+770,1,2,Mrs. Elizabeth (Eliza Needs) Hocking,female,54.0,1,3,23.0,25.0,46.0,mrs. elizabeth (eliza needs) hocking
+771,0,3,Mr. Pehr Fabian Oliver Malkolm Myhrman,male,18.0,0,0,7.75,9.75,23.25,mr. pehr fabian oliver malkolm myhrman
+772,0,3,Mr. Roger Tobin,male,20.0,0,0,7.75,9.75,23.25,mr. roger tobin
+773,1,3,Miss. Virginia Ethel Emanuel,female,5.0,0,0,12.475,14.475,37.425,miss. virginia ethel emanuel
+774,0,3,Mr. Thomas J Kilgannon,male,22.0,0,0,7.7375,9.7375,23.2125,mr. thomas j kilgannon
+775,1,1,Mrs. Edward Scott (Elisabeth Walton McMillan) Robert,female,43.0,0,1,211.3375,213.3375,211.3375,mrs. edward scott (elisabeth walton mcmillan) robert
+776,1,3,Miss. Banoura Ayoub,female,13.0,0,0,7.2292,9.229199999999999,21.6876,miss. banoura ayoub
+777,1,1,Mrs. Albert Adrian (Vera Gillespie) Dick,female,17.0,1,0,57.0,59.0,57.0,mrs. albert adrian (vera gillespie) dick
+778,0,1,Mr. Milton Clyde Long,male,29.0,0,0,30.0,32.0,30.0,mr. milton clyde long
+779,0,3,Mr. Andrew G Johnston,male,35.0,1,2,23.45,25.45,70.35,mr. andrew g johnston
+780,0,3,Mr. William Ali,male,25.0,0,0,7.05,9.05,21.15,mr. william ali
+781,0,3,Mr. Abraham (David Lishin) Harmer,male,25.0,0,0,7.25,9.25,21.75,mr. abraham (david lishin) harmer
+782,1,3,Miss. Anna Sofia Sjoblom,female,18.0,0,0,7.4958,9.4958,22.4874,miss. anna sofia sjoblom
+783,0,3,Master. George Hugh Rice,male,8.0,4,1,29.125,31.125,87.375,master. george hugh rice
+784,1,3,Master. Bertram Vere Dean,male,1.0,1,2,20.575,22.575,61.724999999999994,master. bertram vere dean
+785,0,1,Mr. Benjamin Guggenheim,male,46.0,0,0,79.2,81.2,79.2,mr. benjamin guggenheim
+786,0,3,Mr. Andrew Keane,male,20.0,0,0,7.75,9.75,23.25,mr. andrew keane
+787,0,2,Mr. Alfred Gaskell,male,16.0,0,0,26.0,28.0,52.0,mr. alfred gaskell
+788,0,3,Miss. Stella Anna Sage,female,21.0,8,2,69.55,71.55,208.64999999999998,miss. stella anna sage
+789,0,1,Mr. William Fisher Hoyt,male,43.0,0,0,30.6958,32.6958,30.6958,mr. william fisher hoyt
+790,0,3,Mr. Ristiu Dantcheff,male,25.0,0,0,7.8958,9.895800000000001,23.6874,mr. ristiu dantcheff
+791,0,2,Mr. Richard Otter,male,39.0,0,0,13.0,15.0,26.0,mr. richard otter
+792,1,1,Dr. Alice (Farnham) Leader,female,49.0,0,0,25.9292,27.9292,25.9292,dr. alice (farnham) leader
+793,1,3,Mrs. Mara Osman,female,31.0,0,0,8.6833,10.6833,26.049899999999997,mrs. mara osman
+794,0,3,Mr. Yousseff Ibrahim Shawah,male,30.0,0,0,7.2292,9.229199999999999,21.6876,mr. yousseff ibrahim shawah
+795,0,3,Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe,female,30.0,1,1,24.15,26.15,72.44999999999999,mrs. jean baptiste (rosalie paula govaert) van impe
+796,0,2,Mr. Martin Ponesell,male,34.0,0,0,13.0,15.0,26.0,mr. martin ponesell
+797,1,2,Mrs. Harvey (Charlotte Annie Tate) Collyer,female,31.0,1,1,26.25,28.25,52.5,mrs. harvey (charlotte annie tate) collyer
+798,1,1,Master. William Thornton II Carter,male,11.0,1,2,120.0,122.0,120.0,master. william thornton ii carter
+799,1,3,Master. Assad Alexander Thomas,male,0.42,0,1,8.5167,10.5167,25.5501,master. assad alexander thomas
+800,1,3,Mr. Oskar Arvid Hedman,male,27.0,0,0,6.975,8.975,20.924999999999997,mr. oskar arvid hedman
+801,0,3,Mr. Karl Johan Johansson,male,31.0,0,0,7.775,9.775,23.325000000000003,mr. karl johan johansson
+802,0,1,Mr. Thomas Jr Andrews,male,39.0,0,0,0.0,2.0,0.0,mr. thomas jr andrews
+803,0,3,Miss. Ellen Natalia Pettersson,female,18.0,0,0,7.775,9.775,23.325000000000003,miss. ellen natalia pettersson
+804,0,2,Mr. August Meyer,male,39.0,0,0,13.0,15.0,26.0,mr. august meyer
+805,1,1,Mrs. Norman Campbell (Bertha Griggs) Chambers,female,33.0,1,0,53.1,55.1,53.1,mrs. norman campbell (bertha griggs) chambers
+806,0,3,Mr. William Alexander,male,26.0,0,0,7.8875,9.8875,23.6625,mr. william alexander
+807,0,3,Mr. James Lester,male,39.0,0,0,24.15,26.15,72.44999999999999,mr. james lester
+808,0,2,Mr. Richard James Slemen,male,35.0,0,0,10.5,12.5,21.0,mr. richard james slemen
+809,0,3,Miss. Ebba Iris Alfrida Andersson,female,6.0,4,2,31.275,33.275,93.82499999999999,miss. ebba iris alfrida andersson
+810,0,3,Mr. Ernest Portage Tomlin,male,30.5,0,0,8.05,10.05,24.150000000000002,mr. ernest portage tomlin
+811,0,1,Mr. Richard Fry,male,39.0,0,0,0.0,2.0,0.0,mr. richard fry
+812,0,3,Miss. Wendla Maria Heininen,female,23.0,0,0,7.925,9.925,23.775,miss. wendla maria heininen
+813,0,2,Mr. Albert Mallet,male,31.0,1,1,37.0042,39.0042,74.0084,mr. albert mallet
+814,0,3,Mr. John Fredrik Alexander Holm,male,43.0,0,0,6.45,8.45,19.35,mr. john fredrik alexander holm
+815,0,3,Master. Karl Thorsten Skoog,male,10.0,3,2,27.9,29.9,83.69999999999999,master. karl thorsten skoog
+816,1,1,Mrs. Charles Melville (Clara Jennings Gregg) Hays,female,52.0,1,1,93.5,95.5,93.5,mrs. charles melville (clara jennings gregg) hays
+817,1,3,Mr. Nikola Lulic,male,27.0,0,0,8.6625,10.6625,25.987499999999997,mr. nikola lulic
+818,0,1,Jonkheer. John George Reuchlin,male,38.0,0,0,0.0,2.0,0.0,jonkheer. john george reuchlin
+819,1,3,Mrs. (Beila) Moor,female,27.0,0,1,12.475,14.475,37.425,mrs. (beila) moor
+820,0,3,Master. Urho Abraham Panula,male,2.0,4,1,39.6875,41.6875,119.0625,master. urho abraham panula
+821,0,3,Mr. John Flynn,male,36.0,0,0,6.95,8.95,20.85,mr. john flynn
+822,0,3,Mr. Len Lam,male,23.0,0,0,56.4958,58.4958,169.4874,mr. len lam
+823,1,2,Master. Andre Mallet,male,1.0,0,2,37.0042,39.0042,74.0084,master. andre mallet
+824,1,3,Mr. Thomas Joseph McCormack,male,19.0,0,0,7.75,9.75,23.25,mr. thomas joseph mccormack
+825,1,1,Mrs. George Nelson (Martha Evelyn) Stone,female,62.0,0,0,80.0,82.0,80.0,mrs. george nelson (martha evelyn) stone
+826,1,3,Mrs. Antoni (Selini Alexander) Yasbeck,female,15.0,1,0,14.4542,16.4542,43.3626,mrs. antoni (selini alexander) yasbeck
+827,1,2,Master. George Sibley Richards,male,0.83,1,1,18.75,20.75,37.5,master. george sibley richards
+828,0,3,Mr. Amin Saad,male,30.0,0,0,7.2292,9.229199999999999,21.6876,mr. amin saad
+829,0,3,Mr. Albert Augustsson,male,23.0,0,0,7.8542,9.854199999999999,23.5626,mr. albert augustsson
+830,0,3,Mr. Owen George Allum,male,18.0,0,0,8.3,10.3,24.900000000000002,mr. owen george allum
+831,1,1,Miss. Sara Rebecca Compton,female,39.0,1,1,83.1583,85.1583,83.1583,miss. sara rebecca compton
+832,0,3,Mr. Jakob Pasic,male,21.0,0,0,8.6625,10.6625,25.987499999999997,mr. jakob pasic
+833,0,3,Mr. Maurice Sirota,male,20.0,0,0,8.05,10.05,24.150000000000002,mr. maurice sirota
+834,1,3,Mr. Chang Chip,male,32.0,0,0,56.4958,58.4958,169.4874,mr. chang chip
+835,1,1,Mr. Pierre Marechal,male,29.0,0,0,29.7,31.7,29.7,mr. pierre marechal
+836,0,3,Mr. Ilmari Rudolf Alhomaki,male,20.0,0,0,7.925,9.925,23.775,mr. ilmari rudolf alhomaki
+837,0,2,Mr. Thomas Charles Mudd,male,16.0,0,0,10.5,12.5,21.0,mr. thomas charles mudd
+838,1,1,Miss. Augusta Serepeca,female,30.0,0,0,31.0,33.0,31.0,miss. augusta serepeca
+839,0,3,Mr. Peter L Lemberopolous,male,34.5,0,0,6.4375,8.4375,19.3125,mr. peter l lemberopolous
+840,0,3,Mr. Jeso Culumovic,male,17.0,0,0,8.6625,10.6625,25.987499999999997,mr. jeso culumovic
+841,0,3,Mr. Anthony Abbing,male,42.0,0,0,7.55,9.55,22.65,mr. anthony abbing
+842,0,3,Mr. Douglas Bullen Sage,male,18.0,8,2,69.55,71.55,208.64999999999998,mr. douglas bullen sage
+843,0,3,Mr. Marin Markoff,male,35.0,0,0,7.8958,9.895800000000001,23.6874,mr. marin markoff
+844,0,2,Rev. John Harper,male,28.0,0,1,33.0,35.0,66.0,rev. john harper
+845,1,1,Mrs. Samuel L (Edwiga Grabowska) Goldenberg,female,40.0,1,0,89.1042,91.1042,89.1042,mrs. samuel l (edwiga grabowska) goldenberg
+846,0,3,Master. Sigvard Harald Elias Andersson,male,4.0,4,2,31.275,33.275,93.82499999999999,master. sigvard harald elias andersson
+847,0,3,Mr. Johan Svensson,male,74.0,0,0,7.775,9.775,23.325000000000003,mr. johan svensson
+848,0,3,Miss. Nourelain Boulos,female,9.0,1,1,15.2458,17.2458,45.737399999999994,miss. nourelain boulos
+849,1,1,Miss. Mary Conover Lines,female,16.0,0,1,39.4,41.4,39.4,miss. mary conover lines
+850,0,2,Mrs. Ernest Courtenay (Lilian Hughes) Carter,female,44.0,1,0,26.0,28.0,52.0,mrs. ernest courtenay (lilian hughes) carter
+851,1,3,Mrs. Sam (Leah Rosen) Aks,female,18.0,0,1,9.35,11.35,28.049999999999997,mrs. sam (leah rosen) aks
+852,1,1,Mrs. George Dennick (Mary Hitchcock) Wick,female,45.0,1,1,164.8667,166.8667,164.8667,mrs. george dennick (mary hitchcock) wick
+853,1,1,Mr. Peter Denis Daly,male,51.0,0,0,26.55,28.55,26.55,mr. peter denis daly
+854,1,3,Mrs. Solomon (Latifa Qurban) Baclini,female,24.0,0,3,19.2583,21.2583,57.774899999999995,mrs. solomon (latifa qurban) baclini
+855,0,3,Mr. Raihed Razi,male,30.0,0,0,7.2292,9.229199999999999,21.6876,mr. raihed razi
+856,0,3,Mr. Claus Peter Hansen,male,41.0,2,0,14.1083,16.1083,42.3249,mr. claus peter hansen
+857,0,2,Mr. Frederick Edward Giles,male,21.0,1,0,11.5,13.5,23.0,mr. frederick edward giles
+858,1,1,Mrs. Frederick Joel (Margaret Welles Barron) Swift,female,48.0,0,0,25.9292,27.9292,25.9292,mrs. frederick joel (margaret welles barron) swift
+859,0,3,Miss. Dorothy Edith Sage,female,14.0,8,2,69.55,71.55,208.64999999999998,miss. dorothy edith sage
+860,0,2,Mr. John William Gill,male,24.0,0,0,13.0,15.0,26.0,mr. john william gill
+861,1,2,Mrs. (Karolina) Bystrom,female,42.0,0,0,13.0,15.0,26.0,mrs. (karolina) bystrom
+862,1,2,Miss. Asuncion Duran y More,female,27.0,1,0,13.8583,15.8583,27.7166,miss. asuncion duran y more
+863,0,1,Mr. Washington Augustus II Roebling,male,31.0,0,0,50.4958,52.4958,50.4958,mr. washington augustus ii roebling
+864,0,3,Mr. Philemon van Melkebeke,male,23.0,0,0,9.5,11.5,28.5,mr. philemon van melkebeke
+865,1,3,Master. Harold Theodor Johnson,male,4.0,1,1,11.1333,13.1333,33.3999,master. harold theodor johnson
+866,0,3,Mr. Cerin Balkic,male,26.0,0,0,7.8958,9.895800000000001,23.6874,mr. cerin balkic
+867,1,1,Mrs. Richard Leonard (Sallie Monypeny) Beckwith,female,47.0,1,1,52.5542,54.5542,52.5542,mrs. richard leonard (sallie monypeny) beckwith
+868,0,1,Mr. Frans Olof Carlsson,male,33.0,0,0,5.0,7.0,5.0,mr. frans olof carlsson
+869,0,3,Mr. Victor Vander Cruyssen,male,47.0,0,0,9.0,11.0,27.0,mr. victor vander cruyssen
+870,1,2,Mrs. Samuel (Hannah Wizosky) Abelson,female,28.0,1,0,24.0,26.0,48.0,mrs. samuel (hannah wizosky) abelson
+871,1,3,Miss. Adele Kiamie Najib,female,15.0,0,0,7.225,9.225,21.674999999999997,miss. adele kiamie najib
+872,0,3,Mr. Alfred Ossian Gustafsson,male,20.0,0,0,9.8458,11.8458,29.5374,mr. alfred ossian gustafsson
+873,0,3,Mr. Nedelio Petroff,male,19.0,0,0,7.8958,9.895800000000001,23.6874,mr. nedelio petroff
+874,0,3,Mr. Kristo Laleff,male,23.0,0,0,7.8958,9.895800000000001,23.6874,mr. kristo laleff
+875,1,1,Mrs. Thomas Jr (Lily Alexenia Wilson) Potter,female,56.0,0,1,83.1583,85.1583,83.1583,mrs. thomas jr (lily alexenia wilson) potter
+876,1,2,Mrs. William (Imanita Parrish Hall) Shelley,female,25.0,0,1,26.0,28.0,52.0,mrs. william (imanita parrish hall) shelley
+877,0,3,Mr. Johann Markun,male,33.0,0,0,7.8958,9.895800000000001,23.6874,mr. johann markun
+878,0,3,Miss. Gerda Ulrika Dahlberg,female,22.0,0,0,10.5167,12.5167,31.5501,miss. gerda ulrika dahlberg
+879,0,2,Mr. Frederick James Banfield,male,28.0,0,0,10.5,12.5,21.0,mr. frederick james banfield
+880,0,3,Mr. Henry Jr Sutehall,male,25.0,0,0,7.05,9.05,21.15,mr. henry jr sutehall
+881,0,3,Mrs. William (Margaret Norton) Rice,female,39.0,0,5,29.125,31.125,87.375,mrs. william (margaret norton) rice
+882,0,2,Rev. Juozas Montvila,male,27.0,0,0,13.0,15.0,26.0,rev. juozas montvila
+883,1,1,Miss. Margaret Edith Graham,female,19.0,0,0,30.0,32.0,30.0,miss. margaret edith graham
+884,0,3,Miss. Catherine Helen Johnston,female,7.0,1,2,23.45,25.45,70.35,miss. catherine helen johnston
+885,1,1,Mr. Karl Howell Behr,male,26.0,0,0,30.0,32.0,30.0,mr. karl howell behr
+886,0,3,Mr. Patrick Dooley,male,32.0,0,0,7.75,9.75,23.25,mr. patrick dooley
